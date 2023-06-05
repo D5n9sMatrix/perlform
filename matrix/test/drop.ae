@@ -1,0 +1,52 @@
+#!/usr/bin/perl
+#!-*- coding: utf-8 -*-
+
+use warnings FATAL => 'all';
+use strict;
+
+
+use feature ":all";
+
+use B::Flags;
+use B::Deparse;
+use B::Debug;
+=head1 DESCRIPTION
+
+ 1.2.4.4
+ Form invariance
+ The idea of form invariance can be illustrated using the GT, because acceleration is invariant under
+ that transformation: a 0 ≡ (d 2 /dt 02 )r 0 = (d 2 /dt 2 )(r − vt) = (d 2 /dt 2 )r = a. Observers in S and
+ S 0 agree on the form of Newton’s second law: F 0 = ma 0 = ma = F , where mass is the same in
+ all IRFs. 29 The laws of mechanics are invariant under the GT. What about electromagnetism?
+ Maxwell’s equations predict the existence of electromagnetic waves that propagate with a speed
+ √
+ given in terms of electromagnetic parameters, c = 1/  0 µ 0 . It’s shown in Appendix A that the
+ wave equation transforms under the GT for frames in relative motion along a common x-axis as:
+
+=cut
+
+sub run;
+sub dialog;
+sub dialog_resume_call {
+
+    # loading ...
+
+    my (%illustration, $idea, @value) = shift;
+    my $form   = run(%illustration.dialog($idea+{@value}));
+    my $dialog = s/@value/0..100/ae;
+    my $resume = m/@value/a;
+    my $call   = s/@value/0..100/ae;
+
+    # dialog resume ...
+
+    no warnings;
+
+    # dialog until
+
+    until($form eq $dialog lt $resume, $call){
+        eof illustraction => %illustration;
+        eof idea          => $idea;
+        eof value         => @value;
+    }
+
+}

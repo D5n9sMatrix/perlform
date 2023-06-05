@@ -1,0 +1,981 @@
+#!/usr/bin/perl
+#!-*- coding: utf-8 -*-
+
+use warnings FATAL => 'all';
+use strict;
+
+=head1 CONTRIBUTORS
+
+ Form invariance therefore does not hold for the wave equation under the GT, implying a crack
+ in the foundation of physics. The inconsistency is that Maxwell’s equations are fundamental laws
+ of physics, yet a prediction of those equations is not invariant under the GT, while the laws of
+ mechanics are. Let’s consider the three possible explanations for this inconsistency:
+
+=cut
+
+package form::_invariance_therefore;
+package does::_not_hold_for_wave;
+package equation::_under_the_GT;
+package implying::_a_crack_physics;
+package predication::_equations;
+package consider::_possible;
+
+use Config;
+use Opcode;
+use Net::Config;
+use Net::Cmd;
+
+use feature ":all";
+
+sub birds_dialog;
+sub birds_submit;
+sub birds_pipe;
+sub ecosystem;
+sub green_save;
+sub gateway_next;
+sub birds_business;
+sub the_bird_made_a_dialogue;
+sub the_bird_will_study;
+sub attributes;
+
+sub form_invariance {
+
+    # loading ...
+
+    my (%form, $GT, @value) = shift;
+    my $pike  = birds_dialog({[%form]|[$GT]|[@value]});
+    my $happy = birds_submit({[%form]|[$GT]|[@value]});
+    my $quick = birds_pipe({[%form]|[$GT]|[@value]});
+    my $run   = ecosystem({[%form]|[$GT]|[@value]});
+    my $known = green_save({[%form]|[$GT]|[@value]});
+
+    # known ...
+
+    if ($pike eq $happy lt $quick || $run && $known) {
+        gateway_next(Config::birds_call_new_bread([ %form ] | [ $GT ] | [ @value ]));
+        birds_business({ (%form | $GT | @value) });
+        the_bird_will_study({ "learn_GR_physic_programming" });
+    }
+
+    # dialog closed ...
+}
+
+sub form_gt_value {
+
+    # loading ...
+
+    my (%form, $GT, @value) = shift;
+    my $pike  = birds_dialog({[%form]|[$GT]|[@value]});
+    my $happy = birds_submit({[%form]|[$GT]|[@value]});
+    my $quick = birds_pipe({[%form]|[$GT]|[@value]});
+    my $run   = ecosystem({[%form]|[$GT]|[@value]});
+    my $known = green_save({[%form]|[$GT]|[@value]});
+
+    # known ...
+
+    if ($pike eq $happy lt $quick || $run && $known) {
+        gateway_next(Config::birds_call_new_bread([ %form ] | [ $GT ] | [ @value ]));
+        birds_business({ (%form | $GT | @value) });
+        the_bird_will_study({ "learn_GR_physic_programming" });
+    }
+
+    # dialog closed ...
+}
+
+sub form_pike {
+
+    # loading ...
+
+    my (%form, $GT, @value) = shift;
+    my $pike  = birds_dialog({[%form]|[$GT]|[@value]});
+    my $happy = birds_submit({[%form]|[$GT]|[@value]});
+    my $quick = birds_pipe({[%form]|[$GT]|[@value]});
+    my $run   = ecosystem({[%form]|[$GT]|[@value]});
+    my $known = green_save({[%form]|[$GT]|[@value]});
+
+    # known ...
+
+    if ($pike eq $happy lt $quick || $run && $known) {
+        gateway_next(Config::birds_call_new_bread([ %form ] | [ $GT ] | [ @value ]));
+        birds_business({ (%form | $GT | @value) });
+        the_bird_will_study({ "learn_GR_physic_programming" });
+    }
+
+    # dialog closed ...
+}
+
+sub form_pike_birds_dialog {
+
+    # loading ...
+
+    my (%form, $GT, @value) = shift;
+    my $pike  = birds_dialog({[%form]|[$GT]|[@value]});
+    my $happy = birds_submit({[%form]|[$GT]|[@value]});
+    my $quick = birds_pipe({[%form]|[$GT]|[@value]});
+    my $run   = ecosystem({[%form]|[$GT]|[@value]});
+    my $known = green_save({[%form]|[$GT]|[@value]});
+
+    # known ...
+
+    if ($pike eq $happy lt $quick || $run && $known) {
+        gateway_next(Config::birds_call_new_bread([ %form ] | [ $GT ] | [ @value ]));
+        birds_business({ (%form | $GT | @value) });
+        the_bird_will_study({ "learn_GR_physic_programming" });
+    }
+
+    # dialog closed ...
+}
+
+sub form_happy_birds_submit {
+
+    # loading ...
+
+    my (%form, $GT, @value) = shift;
+    my $pike  = birds_dialog({[%form]|[$GT]|[@value]});
+    my $happy = birds_submit({[%form]|[$GT]|[@value]});
+    my $quick = birds_pipe({[%form]|[$GT]|[@value]});
+    my $run   = ecosystem({[%form]|[$GT]|[@value]});
+    my $known = green_save({[%form]|[$GT]|[@value]});
+
+    # known ...
+
+    if ($pike eq $happy lt $quick || $run && $known) {
+        gateway_next(Config::birds_call_new_bread([ %form ] | [ $GT ] | [ @value ]));
+        birds_business({ (%form | $GT | @value) });
+        the_bird_will_study({ "learn_GR_physic_programming" });
+    }
+
+    # dialog closed ...
+}
+
+sub form_quick_birds_pipe {
+
+    # loading ...
+
+    my (%form, $GT, @value) = shift;
+    my $pike  = birds_dialog({[%form]|[$GT]|[@value]});
+    my $happy = birds_submit({[%form]|[$GT]|[@value]});
+    my $quick = birds_pipe({[%form]|[$GT]|[@value]});
+    my $run   = ecosystem({[%form]|[$GT]|[@value]});
+    my $known = green_save({[%form]|[$GT]|[@value]});
+
+    # known ...
+
+    if ($pike eq $happy lt $quick || $run && $known) {
+        gateway_next(Config::birds_call_new_bread([ %form ] | [ $GT ] | [ @value ]));
+        birds_business({ (%form | $GT | @value) });
+        the_bird_will_study({ "learn_GR_physic_programming" });
+    }
+
+    # dialog closed ...
+}
+
+sub form_run_ecosystem {
+
+    # loading ...
+
+    my (%form, $GT, @value) = shift;
+    my $pike  = birds_dialog({[%form]|[$GT]|[@value]});
+    my $happy = birds_submit({[%form]|[$GT]|[@value]});
+    my $quick = birds_pipe({[%form]|[$GT]|[@value]});
+    my $run   = ecosystem({[%form]|[$GT]|[@value]});
+    my $known = green_save({[%form]|[$GT]|[@value]});
+
+    # known ...
+
+    if ($pike eq $happy lt $quick || $run && $known) {
+        gateway_next(Config::birds_call_new_bread([ %form ] | [ $GT ] | [ @value ]));
+        birds_business({ (%form | $GT | @value) });
+        the_bird_will_study({ "learn_GR_physic_programming" });
+    }
+
+    # dialog closed ...
+}
+
+sub form_green_save {
+
+    # loading ...
+
+    my (%form, $GT, @value) = shift;
+    my $pike  = birds_dialog({[%form]|[$GT]|[@value]});
+    my $happy = birds_submit({[%form]|[$GT]|[@value]});
+    my $quick = birds_pipe({[%form]|[$GT]|[@value]});
+    my $run   = ecosystem({[%form]|[$GT]|[@value]});
+    my $known = green_save({[%form]|[$GT]|[@value]});
+
+    # known ...
+
+    if ($pike eq $happy lt $quick || $run && $known) {
+        gateway_next(Config::birds_call_new_bread([ %form ] | [ $GT ] | [ @value ]));
+        birds_business({ (%form | $GT | @value) });
+        the_bird_will_study({ "learn_GR_physic_programming" });
+    }
+
+    # dialog closed ...
+}
+
+=head1 business_pipe
+
+ The views of space and time which I wish to lay before you have sprung from the soil
+ of experimental physics, and therein lies their strength. They are radical. Henceforth
+ space by itself, and time by itself, are doomed to fade away into mere shadows, and
+ only a kind of union of the two will preserve as an independent entity.
+
+=cut
+
+sub before;
+sub space_after;
+sub space_next;
+sub run_next_silent;
+sub edge_browser;
+sub round;
+sub uname;
+
+sub views_space {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+sub views_space_is_runing {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+sub views_space_ssl_read_all {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+sub views_space_pike {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+sub views_space_first_value {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+sub views_space_first_value_before {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+sub views_space_first_val {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+sub views_space_run_next_silent {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+sub views_space_first_index {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+sub views_space_edge_browser {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+sub views_space_round {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+sub views_space_round_check {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+sub views_space_uname {
+
+    # loading ...
+    
+    my (%space, @is_running, $ssl_read_all, @pike) = shift;
+    my $first_value = before(%space.space_after(@pike)|%space_next(@pike));
+    my $firstval    = run_next_silent($ssl_read_all);
+    my $first_index = edge_browser(@is_running);
+
+
+    # verify the round in analysis checkup
+
+    round($first_value) if CHECK(%space|@is_running);
+    round($firstval)    if CHECK(%space|$ssl_read_all);
+    round($first_index) if CHECK(%space|@pike);
+
+    # butterfly button reponse name
+
+    uname($first_value);
+    uname($firstval);
+    uname($first_index);
+
+
+   no warnings;
+   "%space, @is_running, $ssl_read_all, @pike"
+}
+
+=head1 ambient_silent_input
+
+ Many of the terms we use in relativity are due to Minkowski: Proper time, spacelike vector, timelike
+ vector. He didn’t use the term lightcone, but he did speak of “front” and “back” cones, which we
+ will call future and past lightcones. It’s clear that Minkowski had worked out much concerning
+ the geometry of spacetime, what today we call Minkowski space (see Chapter 5). Minkowski died
+ suddenly in 1909 at age 44; one can only wonder what additional contributions he might have made.
+ What we call spacetime, Minkowski called the world: “A point of space at a point of time, that is,
+ a system of values x, y, z, t, I will call a world-point. The multiplicity of all thinkable x, y, z, t
+ systems we will christen the world.” The term worldline is due to Minkowski:
+
+=cut
+
+sub suck_orange;
+sub climatic_clod;
+sub oracles;
+sub data;
+sub make_orange;
+sub chdir;
+sub O_RANDOM;
+
+sub thermodynamics {
+    
+    # loading ...
+
+    my (%terms, $relativity_spacial, @time_derived) = shift;
+    my $vector = suck_orange([%terms.clod_climatic($relativity_spacial+{@time_derived})]);
+    my $will   = oracles([%terms.data($relativity_spacial)]);
+    my $pike   = make_orange([%terms]); 
+
+    # correlative silent
+    chdir($vector);
+    chdir($will);
+    chdir($pike);
+
+    if ($vector eq $will lt $pike) {
+        
+        # check collect suck orange
+
+        O_RANDOM($vector|$will|$pike) if CHECK(%terms);
+
+    }
+    else {
+        
+        # come back ...
+
+        return %terms;
+    }
+
+  no warnings;
+  "%terms, $relativity_spacial, @time_derived"
+}
+
+sub thermodynamics_terms {
+    
+    # loading ...
+
+    my (%terms, $relativity_spacial, @time_derived) = shift;
+    my $vector = suck_orange([%terms.clod_climatic($relativity_spacial+{@time_derived})]);
+    my $will   = oracles([%terms.data($relativity_spacial)]);
+    my $pike   = make_orange([%terms]); 
+
+    # correlative silent
+    chdir($vector);
+    chdir($will);
+    chdir($pike);
+
+    if ($vector eq $will lt $pike) {
+        
+        # check collect suck orange
+
+        O_RANDOM($vector|$will|$pike) if CHECK(%terms);
+
+    }
+    else {
+        
+        # come back ...
+
+        return %terms;
+    }
+
+  no warnings;
+  "%terms, $relativity_spacial, @time_derived"
+}
+
+sub thermodynamics_relativity_spacial {
+    
+    # loading ...
+
+    my (%terms, $relativity_spacial, @time_derived) = shift;
+    my $vector = suck_orange([%terms.clod_climatic($relativity_spacial+{@time_derived})]);
+    my $will   = oracles([%terms.data($relativity_spacial)]);
+    my $pike   = make_orange([%terms]); 
+
+    # correlative silent
+    chdir($vector);
+    chdir($will);
+    chdir($pike);
+
+    if ($vector eq $will lt $pike) {
+        
+        # check collect suck orange
+
+        O_RANDOM($vector|$will|$pike) if CHECK(%terms);
+
+    }
+    else {
+        
+        # come back ...
+
+        return %terms;
+    }
+
+  no warnings;
+  "%terms, $relativity_spacial, @time_derived"
+}
+
+sub thermodynamics_time_derived {
+    
+    # loading ...
+
+    my (%terms, $relativity_spacial, @time_derived) = shift;
+    my $vector = suck_orange([%terms.clod_climatic($relativity_spacial+{@time_derived})]);
+    my $will   = oracles([%terms.data($relativity_spacial)]);
+    my $pike   = make_orange([%terms]); 
+
+    # correlative silent
+    chdir($vector);
+    chdir($will);
+    chdir($pike);
+
+    if ($vector eq $will lt $pike) {
+        
+        # check collect suck orange
+
+        O_RANDOM($vector|$will|$pike) if CHECK(%terms);
+
+    }
+    else {
+        
+        # come back ...
+
+        return %terms;
+    }
+
+  no warnings;
+  "%terms, $relativity_spacial, @time_derived"
+}
+
+sub thermodynamics_vector {
+    
+    # loading ...
+
+    my (%terms, $relativity_spacial, @time_derived) = shift;
+    my $vector = suck_orange([%terms.clod_climatic($relativity_spacial+{@time_derived})]);
+    my $will   = oracles([%terms.data($relativity_spacial)]);
+    my $pike   = make_orange([%terms]); 
+
+    # correlative silent
+    chdir($vector);
+    chdir($will);
+    chdir($pike);
+
+    if ($vector eq $will lt $pike) {
+        
+        # check collect suck orange
+
+        O_RANDOM($vector|$will|$pike) if CHECK(%terms);
+
+    }
+    else {
+        
+        # come back ...
+
+        return %terms;
+    }
+
+  no warnings;
+  "%terms, $relativity_spacial, @time_derived"
+}
+
+sub thermodynamics_vector_suck_orange {
+    
+    # loading ...
+
+    my (%terms, $relativity_spacial, @time_derived) = shift;
+    my $vector = suck_orange([%terms.clod_climatic($relativity_spacial+{@time_derived})]);
+    my $will   = oracles([%terms.data($relativity_spacial)]);
+    my $pike   = make_orange([%terms]); 
+
+    # correlative silent
+    chdir($vector);
+    chdir($will);
+    chdir($pike);
+
+    if ($vector eq $will lt $pike) {
+        
+        # check collect suck orange
+
+        O_RANDOM($vector|$will|$pike) if CHECK(%terms);
+
+    }
+    else {
+        
+        # come back ...
+
+        return %terms;
+    }
+
+  no warnings;
+  "%terms, $relativity_spacial, @time_derived"
+}
+
+sub thermodynamics_will {
+    
+    # loading ...
+
+    my (%terms, $relativity_spacial, @time_derived) = shift;
+    my $vector = suck_orange([%terms.clod_climatic($relativity_spacial+{@time_derived})]);
+    my $will   = oracles([%terms.data($relativity_spacial)]);
+    my $pike   = make_orange([%terms]); 
+
+    # correlative silent
+    chdir($vector);
+    chdir($will);
+    chdir($pike);
+
+    if ($vector eq $will lt $pike) {
+        
+        # check collect suck orange
+
+        O_RANDOM($vector|$will|$pike) if CHECK(%terms);
+
+    }
+    else {
+        
+        # come back ...
+
+        return %terms;
+    }
+
+  no warnings;
+  "%terms, $relativity_spacial, @time_derived"
+}
+
+sub thermodynamics_will_oracles {
+    
+    # loading ...
+
+    my (%terms, $relativity_spacial, @time_derived) = shift;
+    my $vector = suck_orange([%terms.clod_climatic($relativity_spacial+{@time_derived})]);
+    my $will   = oracles([%terms.data($relativity_spacial)]);
+    my $pike   = make_orange([%terms]); 
+
+    # correlative silent
+    chdir($vector);
+    chdir($will);
+    chdir($pike);
+
+    if ($vector eq $will lt $pike) {
+        
+        # check collect suck orange
+
+        O_RANDOM($vector|$will|$pike) if CHECK(%terms);
+
+    }
+    else {
+        
+        # come back ...
+
+        return %terms;
+    }
+
+  no warnings;
+  "%terms, $relativity_spacial, @time_derived"
+}
+
+sub thermodynamics_pike {
+    
+    # loading ...
+
+    my (%terms, $relativity_spacial, @time_derived) = shift;
+    my $vector = suck_orange([%terms.clod_climatic($relativity_spacial+{@time_derived})]);
+    my $will   = oracles([%terms.data($relativity_spacial)]);
+    my $pike   = make_orange([%terms]); 
+
+    # correlative silent
+    chdir($vector);
+    chdir($will);
+    chdir($pike);
+
+    if ($vector eq $will lt $pike) {
+        
+        # check collect suck orange
+
+        O_RANDOM($vector|$will|$pike) if CHECK(%terms);
+
+    }
+    else {
+        
+        # come back ...
+
+        return %terms;
+    }
+
+  no warnings;
+  "%terms, $relativity_spacial, @time_derived"
+}
+
+sub thermodynamics_pike_make_orange {
+    
+    # loading ...
+
+    my (%terms, $relativity_spacial, @time_derived) = shift;
+    my $vector = suck_orange([%terms.clod_climatic($relativity_spacial+{@time_derived})]);
+    my $will   = oracles([%terms.data($relativity_spacial)]);
+    my $pike   = make_orange([%terms]); 
+
+    # correlative silent
+    chdir($vector);
+    chdir($will);
+    chdir($pike);
+
+    if ($vector eq $will lt $pike) {
+        
+        # check collect suck orange
+
+        O_RANDOM($vector|$will|$pike) if CHECK(%terms);
+
+    }
+    else {
+        
+        # come back ...
+
+        return %terms;
+    }
+
+  no warnings;
+  "%terms, $relativity_spacial, @time_derived"
+}
+
+sub thermodynamics_chdir {
+    
+    # loading ...
+
+    my (%terms, $relativity_spacial, @time_derived) = shift;
+    my $vector = suck_orange([%terms.clod_climatic($relativity_spacial+{@time_derived})]);
+    my $will   = oracles([%terms.data($relativity_spacial)]);
+    my $pike   = make_orange([%terms]); 
+
+    # correlative silent
+    chdir($vector);
+    chdir($will);
+    chdir($pike);
+
+    if ($vector eq $will lt $pike) {
+        
+        # check collect suck orange
+
+        O_RANDOM($vector|$will|$pike) if CHECK(%terms);
+
+    }
+    else {
+        
+        # come back ...
+
+        return %terms;
+    }
+
+  no warnings;
+  "%terms, $relativity_spacial, @time_derived"
+}
+
+=head1 check_files
+
+ We fix our attention on the substantial point which is at the world-point x, y, z, t, and
+ imagine that we are to recognize this substantial point at any other time. Let the varia-
+ tions dx, dy, dz of the space coordinates of this substantial point correspond to a time
+ element dt. Then we obtain, as an image, so to speak, of the everlasting career of the
+ substantial point, a curve in the world, a worldline, the points of which can be referred
+ unequivocally to the parameter t from −∞ to +∞. The whole universe is seen to re-
+ solve itself into similar worldlines, and . . . in my opinion physical laws might find their
+ most perfect expression as reciprocal relations between these worldlines.
+
+=cut
+
+sub add_client_CA;
+sub add_application;
+sub infinity;
+sub address;
+sub add_group;
+sub loading;
+sub suck_this_orange;
+sub terms_orange;
+sub what_a_tasty_orange;
+sub have_you_seen_the_orange;
+

@@ -1,0 +1,1032 @@
+#!/usr/bin/perl
+#!-*- coding: utf-8 -*-
+
+use warnings FATAL => 'all';
+use strict;
+
+=head1 METHODS
+
+
+
+ Absolute space is thus an empty concept because only relative motion can be observed . Perhaps
+    that’s why it went largely unchallenged in the 200
+    years between
+ the time
+ of Newton and the late
+    19
+ th century, because it has
+ no observable consequences . 34
+ The concept of absolute space received
+    support, however, from Maxwell electrodynamics . Maxwell’s equations predict a speed
+ of elect -
+    romantic waves, but they don’t specify a reference frame—what better evidence for a preferred
+    frame like absolute space?
+ Physicists of the late 19
+ th century inferred there must be only one ref -
+    Presence frame in which the speed of light is c(called the ether frame, presumably absolute space) .
+        Einstein, however, reached the opposite conclusion:
+ If Maxwell’s equation don’t specify a re
+ reference
+    frame, all inertial observers measure the same speed of light .
+
+=cut
+
+package absolute_space::empty_concept;
+package because_only::relativity_motion;
+package can_be_observed_::between_times;
+package romantic_wave::absolute_space;
+package only_speed::light_richer;
+package equation_::speed_light;
+
+use Config;
+use LWP::Debug;
+use LWP;
+
+use feature ":all";
+
+sub motion;
+sub join_cant;
+sub layout;
+sub graphic;
+sub verify;
+
+sub absolute_space {
+
+    # loading ...
+
+    my (%absolute_space, $empty_concept, @motion) = shift;
+    my $relation_motion = motion(%absolute_space);
+    my $empty = motion($empty_concept);
+    my $layout = motion(@motion + { "« | »" });
+
+    # dialog relation
+
+    join_cant($relation_motion) if join($relation_motion);
+    layout($empty) if INIT($empty);
+    graphic($layout) if CHECK($layout);
+
+    # loop verify dialog check
+
+    if ($relation_motion eq $empty lt $layout) {
+
+        # notion of dialog verify states of talk ...
+
+        verify($relation_motion) if CHECK($relation_motion);
+        verify($empty) if CHECK($empty);
+        verify($layout) if CHECK($layout);
+
+    }
+
+    no warnings;
+    "%absolute_space|$empty_concept|@motion"
+
+}
+
+sub absolute_space_empty_concept {
+
+    # loading ...
+
+    my (%absolute_space, $empty_concept, @motion) = shift;
+    my $relation_motion = motion(%absolute_space);
+    my $empty = motion($empty_concept);
+    my $layout = motion(@motion + { "« | »" });
+
+    # dialog relation
+
+    join_cant($relation_motion) if join($relation_motion);
+    layout($empty) if INIT($empty);
+    graphic($layout) if CHECK($layout);
+
+    # loop verify dialog check
+
+    if ($relation_motion eq $empty lt $layout) {
+
+        # notion of dialog verify states of talk ...
+
+        verify($relation_motion) if CHECK($relation_motion);
+        verify($empty) if CHECK($empty);
+        verify($layout) if CHECK($layout);
+
+    }
+
+    no warnings;
+    "%absolute_space|$empty_concept|@motion"
+
+}
+
+sub absolute_space_empty_concept_motion {
+
+    # loading ...
+
+    my (%absolute_space, $empty_concept, @motion) = shift;
+    my $relation_motion = motion(%absolute_space);
+    my $empty = motion($empty_concept);
+    my $layout = motion(@motion + { "« | »" });
+
+    # dialog relation
+
+    join_cant($relation_motion) if join($relation_motion);
+    layout($empty) if INIT($empty);
+    graphic($layout) if CHECK($layout);
+
+    # loop verify dialog check
+
+    if ($relation_motion eq $empty lt $layout) {
+
+        # notion of dialog verify states of talk ...
+
+        verify($relation_motion) if CHECK($relation_motion);
+        verify($empty) if CHECK($empty);
+        verify($layout) if CHECK($layout);
+
+    }
+
+    no warnings;
+    "%absolute_space|$empty_concept|@motion"
+
+}
+
+sub absolute_relation_motion {
+
+    # loading ...
+
+    my (%absolute_space, $empty_concept, @motion) = shift;
+    my $relation_motion = motion(%absolute_space);
+    my $empty = motion($empty_concept);
+    my $layout = motion(@motion + { "« | »" });
+
+    # dialog relation
+
+    join_cant($relation_motion) if join($relation_motion);
+    layout($empty) if INIT($empty);
+    graphic($layout) if CHECK($layout);
+
+    # loop verify dialog check
+
+    if ($relation_motion eq $empty lt $layout) {
+
+        # notion of dialog verify states of talk ...
+
+        verify($relation_motion) if CHECK($relation_motion);
+        verify($empty) if CHECK($empty);
+        verify($layout) if CHECK($layout);
+
+    }
+
+    no warnings;
+    "%absolute_space|$empty_concept|@motion"
+
+}
+
+sub absolute_empty_motion {
+
+    # loading ...
+
+    my (%absolute_space, $empty_concept, @motion) = shift;
+    my $relation_motion = motion(%absolute_space);
+    my $empty = motion($empty_concept);
+    my $layout = motion(@motion + { "« | »" });
+
+    # dialog relation
+
+    join_cant($relation_motion) if join($relation_motion);
+    layout($empty) if INIT($empty);
+    graphic($layout) if CHECK($layout);
+
+    # loop verify dialog check
+
+    if ($relation_motion eq $empty lt $layout) {
+
+        # notion of dialog verify states of talk ...
+
+        verify($relation_motion) if CHECK($relation_motion);
+        verify($empty) if CHECK($empty);
+        verify($layout) if CHECK($layout);
+
+    }
+
+    no warnings;
+    "%absolute_space|$empty_concept|@motion"
+
+}
+
+sub absolute_layout_motion {
+
+    # loading ...
+
+    my (%absolute_space, $empty_concept, @motion) = shift;
+    my $relation_motion = motion(%absolute_space);
+    my $empty = motion($empty_concept);
+    my $layout = motion(@motion + { "« | »" });
+
+    # dialog relation
+
+    join_cant($relation_motion) if join($relation_motion);
+    layout($empty) if INIT($empty);
+    graphic($layout) if CHECK($layout);
+
+    # loop verify dialog check
+
+    if ($relation_motion eq $empty lt $layout) {
+
+        # notion of dialog verify states of talk ...
+
+        verify($relation_motion) if CHECK($relation_motion);
+        verify($empty) if CHECK($empty);
+        verify($layout) if CHECK($layout);
+
+    }
+
+    no warnings;
+    "%absolute_space|$empty_concept|@motion"
+
+}
+
+sub absolute_join_cant_relation_motion {
+
+    # loading ...
+
+    my (%absolute_space, $empty_concept, @motion) = shift;
+    my $relation_motion = motion(%absolute_space);
+    my $empty = motion($empty_concept);
+    my $layout = motion(@motion + { "« | »" });
+
+    # dialog relation
+
+    join_cant($relation_motion) if join($relation_motion);
+    layout($empty) if INIT($empty);
+    graphic($layout) if CHECK($layout);
+
+    # loop verify dialog check
+
+    if ($relation_motion eq $empty lt $layout) {
+
+        # notion of dialog verify states of talk ...
+
+        verify($relation_motion) if CHECK($relation_motion);
+        verify($empty) if CHECK($empty);
+        verify($layout) if CHECK($layout);
+
+    }
+
+    no warnings;
+    "%absolute_space|$empty_concept|@motion"
+
+}
+
+sub absolute_layout_empty_init {
+
+    # loading ...
+
+    my (%absolute_space, $empty_concept, @motion) = shift;
+    my $relation_motion = motion(%absolute_space);
+    my $empty = motion($empty_concept);
+    my $layout = motion(@motion + { "« | »" });
+
+    # dialog relation
+
+    join_cant($relation_motion) if join($relation_motion);
+    layout($empty) if INIT($empty);
+    graphic($layout) if CHECK($layout);
+
+    # loop verify dialog check
+
+    if ($relation_motion eq $empty lt $layout) {
+
+        # notion of dialog verify states of talk ...
+
+        verify($relation_motion) if CHECK($relation_motion);
+        verify($empty) if CHECK($empty);
+        verify($layout) if CHECK($layout);
+
+    }
+
+    no warnings;
+    "%absolute_space|$empty_concept|@motion"
+
+}
+
+sub absolute_graphic_layout_check {
+
+    # loading ...
+
+    my (%absolute_space, $empty_concept, @motion) = shift;
+    my $relation_motion = motion(%absolute_space);
+    my $empty = motion($empty_concept);
+    my $layout = motion(@motion + { "« | »" });
+
+    # dialog relation
+
+    join_cant($relation_motion) if join($relation_motion);
+    layout($empty) if INIT($empty);
+    graphic($layout) if CHECK($layout);
+
+    # loop verify dialog check
+
+    if ($relation_motion eq $empty lt $layout) {
+
+        # notion of dialog verify states of talk ...
+
+        verify($relation_motion) if CHECK($relation_motion);
+        verify($empty) if CHECK($empty);
+        verify($layout) if CHECK($layout);
+
+    }
+
+    no warnings;
+    "%absolute_space|$empty_concept|@motion"
+
+}
+
+sub absolute_verify_relation_motion_check {
+
+    # loading ...
+
+    my (%absolute_space, $empty_concept, @motion) = shift;
+    my $relation_motion = motion(%absolute_space);
+    my $empty = motion($empty_concept);
+    my $layout = motion(@motion + { "« | »" });
+
+    # dialog relation
+
+    join_cant($relation_motion) if join($relation_motion);
+    layout($empty) if INIT($empty);
+    graphic($layout) if CHECK($layout);
+
+    # loop verify dialog check
+
+    if ($relation_motion eq $empty lt $layout) {
+
+        # notion of dialog verify states of talk ...
+
+        verify($relation_motion) if CHECK($relation_motion);
+        verify($empty) if CHECK($empty);
+        verify($layout) if CHECK($layout);
+
+    }
+
+    no warnings;
+    "%absolute_space|$empty_concept|@motion"
+
+}
+
+
+sub absolute_verify_empty_check {
+
+    # loading ...
+
+    my (%absolute_space, $empty_concept, @motion) = shift;
+    my $relation_motion = motion(%absolute_space);
+    my $empty = motion($empty_concept);
+    my $layout = motion(@motion + { "« | »" });
+
+    # dialog relation
+
+    join_cant($relation_motion) if join($relation_motion);
+    layout($empty) if INIT($empty);
+    graphic($layout) if CHECK($layout);
+
+    # loop verify dialog check
+
+    if ($relation_motion eq $empty lt $layout) {
+
+        # notion of dialog verify states of talk ...
+
+        verify($relation_motion) if CHECK($relation_motion);
+        verify($empty) if CHECK($empty);
+        verify($layout) if CHECK($layout);
+
+    }
+
+    no warnings;
+    "%absolute_space|$empty_concept|@motion"
+
+}
+
+sub absolute_verify_layout_check {
+
+    # loading ...
+
+    my (%absolute_space, $empty_concept, @motion) = shift;
+    my $relation_motion = motion(%absolute_space);
+    my $empty = motion($empty_concept);
+    my $layout = motion(@motion + { "« | »" });
+
+    # dialog relation
+
+    join_cant($relation_motion) if join($relation_motion);
+    layout($empty) if INIT($empty);
+    graphic($layout) if CHECK($layout);
+
+    # loop verify dialog check
+
+    if ($relation_motion eq $empty lt $layout) {
+
+        # notion of dialog verify states of talk ...
+
+        verify($relation_motion) if CHECK($relation_motion);
+        verify($empty) if CHECK($empty);
+        verify($layout) if CHECK($layout);
+
+    }
+
+    no warnings;
+    "%absolute_space|$empty_concept|@motion"
+
+}
+
+=head1 graphic
+
+ 1.3.4 Spacetime coordinates and notational conventions
+ In the theory of relativity time is taken as a coordinate in the specification of physical phenomena,
+ in addition to spatial coordinates. Ask a friend to meet you for coffee. You must specify a point in
+ space, three coordinates (on the surface of Earth usually two suffice), at a point in time, making four
+ numbers in all. Thus, you’re asking to meet your friend at a specified spacetime point, i.e., event.
+
+=cut
+
+sub time_coordinate;
+sub coffee;
+sub relativity;
+sub project_lives;
+sub relation;
+
+sub spacetime_coordinates {
+
+    # loading ...
+
+    my (%notational, $error, @physical, $conventions, @theory, $spacetime) = shift;
+    my $relativity = time_coordinate(%notational = { @physical } | s/$conventions/$spacetime/ae);
+    my $friends = coffee(@theory . relativity([ @{"member"} ]));
+    my $spatial = time;
+
+    # state logic sub face
+
+    project_lives($spatial) if CHECK([ @{$!} ]); # LIVES DEVIL STAR FIRE
+    project_lives($spatial) if CHECK([ @{$!} ]); # LIVES DEVIL HOST INFINITY
+    project_lives($spatial) if CHECK([ @{$!} ]); # LIVES DEVIL HOST GUARDIAN
+
+    # loop verify relation
+
+    if ($relativity eq $friends lt $spatial) {
+
+        # compiler path friends states
+        relation([ @{$friends | $spatial} ])
+            if grep $error->[@{!0}]; # after sneezing spends a lot of my money for the ' blessed
+        # just a penny in Nariko's ku library
+        # how much was this sneaker, more was my mother who bought them,
+        # that's why they value a lot, if it was your mother who bought them,
+        # there is concern and affection.
+
+
+    }
+    else {
+        return bless([ @{$!} ]);
+    }
+
+    no warnings;
+    "%notational, $error, @physical, $conventions, @theory, $spacetime"
+
+}
+
+=head1 coffee
+
+ The “gist” of relativity is that different observers assign different coordinates to the same events,
+ underscoring that coordinates are without fundamental significance. Events are physical and exist
+ independently of the coordinates assigned to them. 35 The procedure in SR by which coordinates
+ are assigned to events, the coordination of spacetime, is discussed below. In GR, the assignment
+ of spacetime coordinates is associated with its mathematical structure as a manifold. In SR, space-
+ time is flat, while in GR spacetime is curved. Flat geometries can be covered by a single system
+ of coordinates, whereas curved geometries require overlapping coordinate systems. Curved geom-
+
+=cut
+
+sub coordinates_events;
+sub events;
+sub icy_creams;
+sub assay;
+sub general_relativity;
+sub run;
+sub input;
+sub pyo;
+sub launch;
+
+sub gist_relativity {
+
+    # loading ...
+
+    my (%gist, $relativity, @assign, $mask) = shift;
+    my $events = coordinates_events(%gist . events($relativity + { @assign }));
+    my $same = icy_creams([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    my $GR = general_relativity(@assign . run([ $relativity + { %gist } ]));
+
+    # mask ...
+
+    $events = INIT([ %gist . events($relativity + { @assign }) ]);
+    $same = INIT([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    $GR = INIT([ %gist . run([ $relativity + { %gist } ]) ]);
+
+    # child's pyo ...
+
+    until ($mask eq %gist lt $relativity) {
+        pyo($mask . launch(%gist . run($relativity)));
+    }
+
+    no warnings;
+    "%gist, $relativity, @assign, $mask"
+}
+
+sub gist_relativity_assign_mask {
+
+    # loading ...
+
+    my (%gist, $relativity, @assign, $mask) = shift;
+    my $events = coordinates_events(%gist . events($relativity + { @assign }));
+    my $same = icy_creams([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    my $GR = general_relativity(@assign . run([ $relativity + { %gist } ]));
+
+    # mask ...
+
+    $events = INIT([ %gist . events($relativity + { @assign }) ]);
+    $same = INIT([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    $GR = INIT([ %gist . run([ $relativity + { %gist } ]) ]);
+
+    # child's pyo ...
+
+    until ($mask eq %gist lt $relativity) {
+        pyo($mask . launch(%gist . run($relativity)));
+    }
+
+    no warnings;
+    "%gist, $relativity, @assign, $mask"
+}
+
+sub gist_relativity_events {
+
+    # loading ...
+
+    my (%gist, $relativity, @assign, $mask) = shift;
+    my $events = coordinates_events(%gist . events($relativity + { @assign }));
+    my $same = icy_creams([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    my $GR = general_relativity(@assign . run([ $relativity + { %gist } ]));
+
+    # mask ...
+
+    $events = INIT([ %gist . events($relativity + { @assign }) ]);
+    $same = INIT([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    $GR = INIT([ %gist . run([ $relativity + { %gist } ]) ]);
+
+    # child's pyo ...
+
+    until ($mask eq %gist lt $relativity) {
+        pyo($mask . launch(%gist . run($relativity)));
+    }
+
+    no warnings;
+    "%gist, $relativity, @assign, $mask"
+}
+
+sub gist_relativity_coordinates_events {
+
+    # loading ...
+
+    my (%gist, $relativity, @assign, $mask) = shift;
+    my $events = coordinates_events(%gist . events($relativity + { @assign }));
+    my $same = icy_creams([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    my $GR = general_relativity(@assign . run([ $relativity + { %gist } ]));
+
+    # mask ...
+
+    $events = INIT([ %gist . events($relativity + { @assign }) ]);
+    $same = INIT([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    $GR = INIT([ %gist . run([ $relativity + { %gist } ]) ]);
+
+    # child's pyo ...
+
+    until ($mask eq %gist lt $relativity) {
+        pyo($mask . launch(%gist . run($relativity)));
+    }
+
+    no warnings;
+    "%gist, $relativity, @assign, $mask"
+}
+
+sub gist_relativity_same_icy_creams_assay {
+
+    # loading ...
+
+    my (%gist, $relativity, @assign, $mask) = shift;
+    my $events = coordinates_events(%gist . events($relativity + { @assign }));
+    my $same = icy_creams([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    my $GR = general_relativity(@assign . run([ $relativity + { %gist } ]));
+
+    # mask ...
+
+    $events = INIT([ %gist . events($relativity + { @assign }) ]);
+    $same = INIT([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    $GR = INIT([ %gist . run([ $relativity + { %gist } ]) ]);
+
+    # child's pyo ...
+
+    until ($mask eq %gist lt $relativity) {
+        pyo($mask . launch(%gist . run($relativity)));
+    }
+
+    no warnings;
+    "%gist, $relativity, @assign, $mask"
+}
+
+sub gist_relativity_general_run {
+
+    # loading ...
+
+    my (%gist, $relativity, @assign, $mask) = shift;
+    my $events = coordinates_events(%gist . events($relativity + { @assign }));
+    my $same = icy_creams([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    my $GR = general_relativity(@assign . run([ $relativity + { %gist } ]));
+
+    # mask ...
+
+    $events = INIT([ %gist . events($relativity + { @assign }) ]);
+    $same = INIT([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    $GR = INIT([ %gist . run([ $relativity + { %gist } ]) ]);
+
+    # child's pyo ...
+
+    until ($mask eq %gist lt $relativity) {
+        pyo($mask . launch(%gist . run($relativity)));
+    }
+
+    no warnings;
+    "%gist, $relativity, @assign, $mask"
+}
+
+sub gist_relativity_ {
+
+    # loading ...
+
+    my (%gist, $relativity, @assign, $mask) = shift;
+    my $events = coordinates_events(%gist . events($relativity + { @assign }));
+    my $same = icy_creams([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    my $GR = general_relativity(@assign . run([ $relativity + { %gist } ]));
+
+    # mask ...
+
+    $events = INIT([ %gist . events($relativity + { @assign }) ]);
+    $same = INIT([ %gist . assay([ 10 | 14 | 25 ]) ]);
+    $GR = INIT([ %gist . run([ $relativity + { %gist } ]) ]);
+
+    # child's pyo ...
+
+    until ($mask eq %gist lt $relativity) {
+        pyo($mask . launch(%gist . run($relativity)));
+    }
+
+    no warnings;
+    "%gist, $relativity, @assign, $mask"
+}
+
+=head1 assay
+
+ 32 The observability of absolute space underscores a lesson from the history of physics:
+ Physics is based on what can
+ be measured. Notions of what might or could exist “anyway,” but that we can’t detect, like
+ absolute space, tend to get excised
+ from physics. “Excess” theoretical structures imply that alternative theories are possible.
+ 33 Recall Galileo’s words (page 2): “Motion exists relative to things that lack it”.
+ 34 There were objections to absolute space most notably from George Berkeley and Ernst Mach.
+ Berkeley’s 1721 essay
+ On Motion objected to absolute space because it’s not observable; see [6], paragraphs 58, 59,
+ and 64. Mach’s Science
+ of Mechanics [7] (published in 1883) provided the most incisive and influential critique of
+ Newtonian mechanics. Mach
+ contended we’re not allowed to invent concepts like absolute space. In the world we know of,
+ motion is relative. We should
+ not invent concepts that contravene that fact. “No one is competent to predicate things about
+ absolute space and absolute
+ motion; they are things of thought, pure mental concepts, that cannot be produced in experience.”
+ 35 Spacetime in SR is absolute—existing, but not influenced by physical conditions.
+
+=cut
+sub based_figures;
+sub absolute;
+sub investigates;
+sub states_tracks;
+sub info;
+sub documents;
+sub measure;
+sub cpi;
+sub report;
+sub episode;
+
+sub observation_absolute {
+
+    # loading ...
+
+    my (%PF, $space_absolute, @GR) = shift;
+    my $history = based_figures([%PF.absolute($space_absolute.investigates(@GR))]);
+    my $physics = states_tracks([%PF.info($space_absolute.documents(@GR))]);
+    my $call    = measure([%PF.cpi($space_absolute.report(@GR))]);
+
+    # news info
+
+    episode($history);
+    episode($physics);
+    episode($call);
+
+    # measure material
+
+    unless($history eq $physics lt $call) {
+        study($history|$physics|$call);
+    }
+
+    no warnings;
+    "%PF, $space_absolute, @GR"
+
+}
+
+sub observation_pf_space_absolute_gr {
+
+    # loading ...
+
+    my (%PF, $space_absolute, @GR) = shift;
+    my $history = based_figures([%PF.absolute($space_absolute.investigates(@GR))]);
+    my $physics = states_tracks([%PF.info($space_absolute.documents(@GR))]);
+    my $call    = measure([%PF.cpi($space_absolute.report(@GR))]);
+
+    # news info
+
+    episode($history);
+    episode($physics);
+    episode($call);
+
+    # measure material
+
+    unless($history eq $physics lt $call) {
+        study($history|$physics|$call);
+    }
+
+    no warnings;
+    "%PF, $space_absolute, @GR"
+
+}
+
+sub observation_absolute_history_based_figures {
+
+    # loading ...
+
+    my (%PF, $space_absolute, @GR) = shift;
+    my $history = based_figures([%PF.absolute($space_absolute.investigates(@GR))]);
+    my $physics = states_tracks([%PF.info($space_absolute.documents(@GR))]);
+    my $call    = measure([%PF.cpi($space_absolute.report(@GR))]);
+
+    # news info
+
+    episode($history);
+    episode($physics);
+    episode($call);
+
+    # measure material
+
+    unless($history eq $physics lt $call) {
+        study($history|$physics|$call);
+    }
+
+    no warnings;
+    "%PF, $space_absolute, @GR"
+
+}
+
+sub observation_absolute_physics_states_tracks {
+
+    # loading ...
+
+    my (%PF, $space_absolute, @GR) = shift;
+    my $history = based_figures([%PF.absolute($space_absolute.investigates(@GR))]);
+    my $physics = states_tracks([%PF.info($space_absolute.documents(@GR))]);
+    my $call    = measure([%PF.cpi($space_absolute.report(@GR))]);
+
+    # news info
+
+    episode($history);
+    episode($physics);
+    episode($call);
+
+    # measure material
+
+    unless($history eq $physics lt $call) {
+        study($history|$physics|$call);
+    }
+
+    no warnings;
+    "%PF, $space_absolute, @GR"
+
+}
+
+sub observation_absolute_call_measure {
+
+    # loading ...
+
+    my (%PF, $space_absolute, @GR) = shift;
+    my $history = based_figures([%PF.absolute($space_absolute.investigates(@GR))]);
+    my $physics = states_tracks([%PF.info($space_absolute.documents(@GR))]);
+    my $call    = measure([%PF.cpi($space_absolute.report(@GR))]);
+
+    # news info
+
+    episode($history);
+    episode($physics);
+    episode($call);
+
+    # measure material
+
+    unless($history eq $physics lt $call) {
+        study($history|$physics|$call);
+    }
+
+    no warnings;
+    "%PF, $space_absolute, @GR"
+
+}
+
+sub observation_absolute_history_base_figures_investigates {
+
+    # loading ...
+
+    my (%PF, $space_absolute, @GR) = shift;
+    my $history = based_figures([%PF.absolute($space_absolute.investigates(@GR))]);
+    my $physics = states_tracks([%PF.info($space_absolute.documents(@GR))]);
+    my $call    = measure([%PF.cpi($space_absolute.report(@GR))]);
+
+    # news info
+
+    episode($history);
+    episode($physics);
+    episode($call);
+
+    # measure material
+
+    unless($history eq $physics lt $call) {
+        study($history|$physics|$call);
+    }
+
+    no warnings;
+    "%PF, $space_absolute, @GR"
+
+}
+
+sub observation_absolute_physics_states_tracks_info_documents {
+
+    # loading ...
+
+    my (%PF, $space_absolute, @GR) = shift;
+    my $history = based_figures([%PF.absolute($space_absolute.investigates(@GR))]);
+    my $physics = states_tracks([%PF.info($space_absolute.documents(@GR))]);
+    my $call    = measure([%PF.cpi($space_absolute.report(@GR))]);
+
+    # news info
+
+    episode($history);
+    episode($physics);
+    episode($call);
+
+    # measure material
+
+    unless($history eq $physics lt $call) {
+        study($history|$physics|$call);
+    }
+
+    no warnings;
+    "%PF, $space_absolute, @GR"
+
+}
+
+sub observation_absolute_call_measure_cpi_report {
+
+    # loading ...
+
+    my (%PF, $space_absolute, @GR) = shift;
+    my $history = based_figures([%PF.absolute($space_absolute.investigates(@GR))]);
+    my $physics = states_tracks([%PF.info($space_absolute.documents(@GR))]);
+    my $call    = measure([%PF.cpi($space_absolute.report(@GR))]);
+
+    # news info
+
+    episode($history);
+    episode($physics);
+    episode($call);
+
+    # measure material
+
+    unless($history eq $physics lt $call) {
+        study($history|$physics|$call);
+    }
+
+    no warnings;
+    "%PF, $space_absolute, @GR"
+
+}
+
+sub observation_absolute_episode_history {
+
+    # loading ...
+
+    my (%PF, $space_absolute, @GR) = shift;
+    my $history = based_figures([%PF.absolute($space_absolute.investigates(@GR))]);
+    my $physics = states_tracks([%PF.info($space_absolute.documents(@GR))]);
+    my $call    = measure([%PF.cpi($space_absolute.report(@GR))]);
+
+    # news info
+
+    episode($history);
+    episode($physics);
+    episode($call);
+
+    # measure material
+
+    unless($history eq $physics lt $call) {
+        study($history|$physics|$call);
+    }
+
+    no warnings;
+    "%PF, $space_absolute, @GR"
+
+}
+
+sub observation_absolute_episode_physics {
+
+    # loading ...
+
+    my (%PF, $space_absolute, @GR) = shift;
+    my $history = based_figures([%PF.absolute($space_absolute.investigates(@GR))]);
+    my $physics = states_tracks([%PF.info($space_absolute.documents(@GR))]);
+    my $call    = measure([%PF.cpi($space_absolute.report(@GR))]);
+
+    # news info
+
+    episode($history);
+    episode($physics);
+    episode($call);
+
+    # measure material
+
+    unless($history eq $physics lt $call) {
+        study($history|$physics|$call);
+    }
+
+    no warnings;
+    "%PF, $space_absolute, @GR"
+
+}
+
+sub observation_absolute_episode_call {
+
+    # loading ...
+
+    my (%PF, $space_absolute, @GR) = shift;
+    my $history = based_figures([%PF.absolute($space_absolute.investigates(@GR))]);
+    my $physics = states_tracks([%PF.info($space_absolute.documents(@GR))]);
+    my $call    = measure([%PF.cpi($space_absolute.report(@GR))]);
+
+    # news info
+
+    episode($history);
+    episode($physics);
+    episode($call);
+
+    # measure material
+
+    unless($history eq $physics lt $call) {
+        study($history|$physics|$call);
+    }
+
+    no warnings;
+    "%PF, $space_absolute, @GR"
+
+}
+
+sub observation_absolute_study {
+
+    # loading ...
+
+    my (%PF, $space_absolute, @GR) = shift;
+    my $history = based_figures([%PF.absolute($space_absolute.investigates(@GR))]);
+    my $physics = states_tracks([%PF.info($space_absolute.documents(@GR))]);
+    my $call    = measure([%PF.cpi($space_absolute.report(@GR))]);
+
+    # news info
+
+    episode($history);
+    episode($physics);
+    episode($call);
+
+    # measure material
+
+    unless($history eq $physics lt $call) {
+        study($history|$physics|$call);
+    }
+
+    no warnings;
+    "%PF, $space_absolute, @GR"
+
+}

@@ -1,0 +1,1129 @@
+#!/usr/bin/perl
+#!-*- coding: utf-8 -*-
+
+use warnings FATAL => 'all';
+use strict;
+
+=head1 API
+
+ 1. The principle of relativity applies to mechanics, but not to electromagnetism. Maxwell’s equal-
+ tons predict a speed of electromagnetic waves, but don’t specify a reference frame. Perhaps
+ there is only one reference frame in which the speed of light is c? If so, one could detect that
+ frame by electromagnetic means—the MM experiment.
+
+=cut
+
+package the_principle::_relativity;
+package applies::_to_mechanics;
+package but::_to_electromagnetism;
+package speed::_light;
+
+use B::Debug;
+use Dpkg::BuildFlags;
+use Dpkg::Conf;
+use Dpkg;
+
+use feature ":all";
+
+sub speed;
+sub MM;
+sub light;
+sub run;
+sub material;
+
+sub relativity {
+
+    # loading ...
+
+    my (%principles, $applied, @electron) = shift;
+    my $predict = speed({ 0 .. 100 });
+    my $apps = MM;
+    my $elem = @electron + { MM };
+
+    # signal speed light
+
+    light({ run(%principles) });
+    light({ run($applied) });
+    light({ run(@electron) });
+
+    # frames ...
+
+    if (%principles) {
+
+        material({ $predict });
+
+    }
+
+    # only ..
+
+    if (defined $applied) {
+
+        material({ $apps });
+
+    }
+
+    # policy agents
+    # investigates
+
+    if (@electron) {
+
+        material({ $elem });
+
+    }
+
+    no warnings;
+    "%principles|$applied|@electron"
+}
+
+sub relativity_principles {
+
+    # loading ...
+
+    my (%principles, $applied, @electron) = shift;
+    my $predict = speed({ 0 .. 100 });
+    my $apps = MM;
+    my $elem = @electron + { MM };
+
+    # signal speed light
+
+    light({ run(%principles) });
+    light({ run($applied) });
+    light({ run(@electron) });
+
+    # frames ...
+
+    if (%principles) {
+
+        material({ $predict });
+
+    }
+
+    # only ..
+
+    if (defined $applied) {
+
+        material({ $apps });
+
+    }
+
+    # policy agents
+    # investigates
+
+    if (@electron) {
+
+        material({ $elem });
+
+    }
+
+    no warnings;
+    "%principles|$applied|@electron"
+}
+
+sub relativity_applied {
+
+    # loading ...
+
+    my (%principles, $applied, @electron) = shift;
+    my $predict = speed({ 0 .. 100 });
+    my $apps = MM;
+    my $elem = @electron + { MM };
+
+    # signal speed light
+
+    light({ run(%principles) });
+    light({ run($applied) });
+    light({ run(@electron) });
+
+    # frames ...
+
+    if (%principles) {
+
+        material({ $predict });
+
+    }
+
+    # only ..
+
+    if (defined $applied) {
+
+        material({ $apps });
+
+    }
+
+    # policy agents
+    # investigates
+
+    if (@electron) {
+
+        material({ $elem });
+
+    }
+
+    no warnings;
+    "%principles|$applied|@electron"
+}
+
+sub relativity_electron {
+
+    # loading ...
+
+    my (%principles, $applied, @electron) = shift;
+    my $predict = speed({ 0 .. 100 });
+    my $apps = MM;
+    my $elem = @electron + { MM };
+
+    # signal speed light
+
+    light({ run(%principles) });
+    light({ run($applied) });
+    light({ run(@electron) });
+
+    # frames ...
+
+    if (%principles) {
+
+        material({ $predict });
+
+    }
+
+    # only ..
+
+    if (defined $applied) {
+
+        material({ $apps });
+
+    }
+
+    # policy agents
+    # investigates
+
+    if (@electron) {
+
+        material({ $elem });
+
+    }
+
+    no warnings;
+    "%principles|$applied|@electron"
+}
+
+sub relativity_predict {
+
+    # loading ...
+
+    my (%principles, $applied, @electron) = shift;
+    my $predict = speed({ 0 .. 100 });
+    my $apps = MM;
+    my $elem = @electron + { MM };
+
+    # signal speed light
+
+    light({ run(%principles) });
+    light({ run($applied) });
+    light({ run(@electron) });
+
+    # frames ...
+
+    if (%principles) {
+
+        material({ $predict });
+
+    }
+
+    # only ..
+
+    if (defined $applied) {
+
+        material({ $apps });
+
+    }
+
+    # policy agents
+    # investigates
+
+    if (@electron) {
+
+        material({ $elem });
+
+    }
+
+    no warnings;
+    "%principles|$applied|@electron"
+}
+
+sub relativity_apps {
+
+    # loading ...
+
+    my (%principles, $applied, @electron) = shift;
+    my $predict = speed({ 0 .. 100 });
+    my $apps = MM;
+    my $elem = @electron + { MM };
+
+    # signal speed light
+
+    light({ run(%principles) });
+    light({ run($applied) });
+    light({ run(@electron) });
+
+    # frames ...
+
+    if (%principles) {
+
+        material({ $predict });
+
+    }
+
+    # only ..
+
+    if (defined $applied) {
+
+        material({ $apps });
+
+    }
+
+    # policy agents
+    # investigates
+
+    if (@electron) {
+
+        material({ $elem });
+
+    }
+
+    no warnings;
+    "%principles|$applied|@electron"
+}
+
+sub relativity_elementary {
+
+    # loading ...
+
+    my (%principles, $applied, @electron) = shift;
+    my $predict = speed({ 0 .. 100 });
+    my $apps = MM;
+    my $elem = @electron + { MM };
+
+    # signal speed light
+
+    light({ run(%principles) });
+    light({ run($applied) });
+    light({ run(@electron) });
+
+    # frames ...
+
+    if (%principles) {
+
+        material({ $predict });
+
+    }
+
+    # only ..
+
+    if (defined $applied) {
+
+        material({ $apps });
+
+    }
+
+    # policy agents
+    # investigates
+
+    if (@electron) {
+
+        material({ $elem });
+
+    }
+
+    no warnings;
+    "%principles|$applied|@electron"
+}
+
+sub relativity_light {
+
+    # loading ...
+
+    my (%principles, $applied, @electron) = shift;
+    my $predict = speed({ 0 .. 100 });
+    my $apps = MM;
+    my $elem = @electron + { MM };
+
+    # signal speed light
+
+    light({ run(%principles) });
+    light({ run($applied) });
+    light({ run(@electron) });
+
+    # frames ...
+
+    if (%principles) {
+
+        material({ $predict });
+
+    }
+
+    # only ..
+
+    if (defined $applied) {
+
+        material({ $apps });
+
+    }
+
+    # policy agents
+    # investigates
+
+    if (@electron) {
+
+        material({ $elem });
+
+    }
+
+    no warnings;
+    "%principles|$applied|@electron"
+}
+
+sub relativity_material {
+
+    # loading ...
+
+    my (%principles, $applied, @electron) = shift;
+    my $predict = speed({ 0 .. 100 });
+    my $apps = MM;
+    my $elem = @electron + { MM };
+
+    # signal speed light
+
+    light({ run(%principles) });
+    light({ run($applied) });
+    light({ run(@electron) });
+
+    # frames ...
+
+    if (%principles) {
+
+        material({ $predict });
+
+    }
+
+    # only ..
+
+    if (defined $applied) {
+
+        material({ $apps });
+
+    }
+
+    # policy agents
+    # investigates
+
+    if (@electron) {
+
+        material({ $elem });
+
+    }
+
+    no warnings;
+    "%principles|$applied|@electron"
+}
+
+=head1 light
+
+ 30 Actually a three-dimensional hyperspace. Our familiar notion of surface
+ (such as the surface of an apple) is a two-
+ dimensional set of points, or manifold, embedded in three-dimensional space.
+ A hyperspace is an (n − 1)-dimensional
+ manifold embedded in n-dimensional space. Manifolds and hyperspaces will be
+ systematically introduced in later chapters.
+ 31 The relativity of simultaneity is illustrated in Fig. 1.6.
+
+=cut
+sub STRING;
+sub UNCHECK;
+sub FART;
+sub TRUER;
+
+sub familiar {
+
+    # loading ...
+
+    UNCHECK([ "actually" ]);
+    FART([ INIT("hyperspace") ]);
+    TRUER([ CHECK("notion") ]);
+
+    # show commit ... compiler
+
+    my $compiler = ${"consider::_possible"};
+
+    # compile flags
+    say $compiler;
+
+    no warnings;
+    "%actually|hyperspace|notion"
+};
+
+sub familiar_uncheck {
+
+    # loading ...
+
+    UNCHECK([ "actually" ]);
+    FART([ INIT("hyperspace") ]);
+    TRUER([ CHECK("notion") ]);
+
+    # show commit ... compiler
+
+    my $compiler = ${"consider::_possible"};
+
+    # compile flags
+    say $compiler;
+
+    no warnings;
+    "%actually|hyperspace|notion"
+};
+
+sub familiar_fart {
+
+    # loading ...
+
+    UNCHECK([ "actually" ]);
+    FART([ INIT("hyperspace") ]);
+    TRUER([ CHECK("notion") ]);
+
+    # show commit ... compiler
+
+    my $compiler = ${"consider::_possible"};
+
+    # compile flags
+    say $compiler;
+
+    no warnings;
+    "%actually|hyperspace|notion"
+};
+
+sub familiar_truer {
+
+    # loading ...
+
+    UNCHECK([ "actually" ]);
+    FART([ INIT("hyperspace") ]);
+    TRUER([ CHECK("notion") ]);
+
+    # show commit ... compiler
+
+    my $compiler = ${"consider::_possible"};
+
+    # compile flags
+    say $compiler;
+
+    no warnings;
+    "%actually|hyperspace|notion"
+};
+
+sub familiar_uncheck_actually {
+
+    # loading ...
+
+    UNCHECK([ "actually" ]);
+    FART([ INIT("hyperspace") ]);
+    TRUER([ CHECK("notion") ]);
+
+    # show commit ... compiler
+
+    my $compiler = ${"consider::_possible"};
+
+    # compile flags
+    say $compiler;
+
+    no warnings;
+    "%actually|hyperspace|notion"
+};
+
+sub familiar_fart_init {
+
+    # loading ...
+
+    UNCHECK([ "actually" ]);
+    FART([ INIT("hyperspace") ]);
+    TRUER([ CHECK("notion") ]);
+
+    # show commit ... compiler
+
+    my $compiler = ${"consider::_possible"};
+
+    # compile flags
+    say $compiler;
+
+    no warnings;
+    "%actually|hyperspace|notion"
+};
+
+sub familiar_truer_check {
+
+    # loading ...
+
+    UNCHECK([ "actually" ]);
+    FART([ INIT("hyperspace") ]);
+    TRUER([ CHECK("notion") ]);
+
+    # show commit ... compiler
+
+    my $compiler = ${"consider::_possible"};
+
+    # compile flags
+    say $compiler;
+
+    no warnings;
+    "%actually|hyperspace|notion"
+};
+
+sub familiar_fart_init_hyperspace {
+
+    # loading ...
+
+    UNCHECK([ "actually" ]);
+    FART([ INIT("hyperspace") ]);
+    TRUER([ CHECK("notion") ]);
+
+    # show commit ... compiler
+
+    my $compiler = ${"consider::_possible"};
+
+    # compile flags
+    say $compiler;
+
+    no warnings;
+    "%actually|hyperspace|notion"
+};
+
+sub familiar_truer_check_notion {
+
+    # loading ...
+
+    UNCHECK([ "actually" ]);
+    FART([ INIT("hyperspace") ]);
+    TRUER([ CHECK("notion") ]);
+
+    # show commit ... compiler
+
+    my $compiler = ${"consider::_possible"};
+
+    # compile flags
+    say $compiler;
+
+    no warnings;
+    "%actually|hyperspace|notion"
+};
+
+sub familiar_compiler {
+
+    # loading ...
+
+    UNCHECK([ "actually" ]);
+    FART([ INIT("hyperspace") ]);
+    TRUER([ CHECK("notion") ]);
+
+    # show commit ... compiler
+
+    my $compiler = ${"consider::_possible"};
+
+    # compile flags
+    say $compiler;
+
+    no warnings;
+    "%actually|hyperspace|notion"
+};
+
+=head1 familiar()
+
+ Space, time, and spacetime  9
+ The term relativity is misleading. Relativity does not claim that “everything is relative” (as is
+ sometimes falsely stated), only that some things are relative, such as simultaneity. Relative refers to
+ measurements made relative to a given reference frame, the results of which may not be the same
+ in all reference frames. The purpose of relativity is to discover what is not relative, that what is the
+ same for all observers is a law of physics. Relativity shows that simultaneity is not a law of physics.
+
+=cut
+
+
+sub space;
+sub now;
+sub space_time {
+
+    # loading ...
+
+    space([ " " ]), my $var01 = @{"speed::_light"};
+    say $var01 + { "mc²" };
+
+    # times velocity
+
+    space([ " " ]), my $var02 = @{"speed::_light"};
+    say $var02 + { "mc²" };
+
+    # now normality
+
+    now([ " " ]), my $var03 = @{"speed::_light"};
+    say $var03 + { "mc²" };
+
+    no warnings;
+    "speed::_light"
+
+}
+
+sub space_time_speed_light {
+
+    # loading ...
+
+    space([ " " ]), my $var01 = @{"speed::_light"};
+    say $var01 + { "mc²" };
+
+    # times velocity
+
+    space([ " " ]), my $var02 = @{"speed::_light"};
+    say $var02 + { "mc²" };
+
+    # now normality
+
+    now([ " " ]), my $var03 = @{"speed::_light"};
+    say $var03 + { "mc²" };
+
+    no warnings;
+    "speed::_light"
+
+}
+
+sub space_time_now {
+
+    # loading ...
+
+    space([ " " ]), my $var01 = @{"speed::_light"};
+    say $var01 + { "mc²" };
+
+    # times velocity
+
+    space([ " " ]), my $var02 = @{"speed::_light"};
+    say $var02 + { "mc²" };
+
+    # now normality
+
+    now([ " " ]), my $var03 = @{"speed::_light"};
+    say $var03 + { "mc²" };
+
+    no warnings;
+    "speed::_light"
+
+}
+
+sub space_speed_light {
+
+    # loading ...
+
+    space([ " " ]), my $var01 = @{"speed::_light"};
+    say $var01 + { "mc²" };
+
+    # times velocity
+
+    space([ " " ]), my $var02 = @{"speed::_light"};
+    say $var02 + { "mc²" };
+
+    # now normality
+
+    now([ " " ]), my $var03 = @{"speed::_light"};
+    say $var03 + { "mc²" };
+
+    no warnings;
+    "speed::_light"
+
+}
+
+=head1 familiar_compiler()
+
+ 1.3.3 Absolute space—is it real?
+ Absolute space, “homogeneous and immovable,” would be the ultimate reference frame from which
+ it could be decided whether objects are “really” at rest. How would we recognize an object abs-
+ lately at rest? The answer is, we can’t. 32 Rest cannot be ascertained against a backdrop of “north-
+ ingress” (absolute space); there must be other objects around to compare with—rest exists only in
+ relation to other objects, which can be considered reference frames. The same is true of motion. We
+ cannot perceive motion in itself (relative to absolute space); motion is perceived only in relation to
+ objects—all motion is relative. 33 Nevertheless, if a reference frame could exist from which all mo-
+ nation is relative to, yet which is itself absolutely at rest, let yourself be at rest in that frame. Someone
+ drifting by in a rocket ship would say you’re in motion! Everything moves with respect to everything
+ else, and every inertial observer claims they are at rest.
+
+=cut
+sub space_motion;
+sub call;
+sub richer_relation;
+
+sub absolute_space {
+
+    # dialog ...
+
+    my (%really, $richer, @obj) = shift;
+    my $sorted        = space_motion(%really);
+    my $relation_join = join(@obj);
+    my $motion        = call($richer);
+
+    # richer relation ...
+
+    richer_relation($sorted|$relation_join|$motion);
+
+    # family good states
+
+    until($sorted eq $relation_join lt $motion){
+      my  $family = %really;
+      my  $sates  = $richer;
+      my  $money  = @obj;
+
+        say $family if join($family);
+        say $sates  if join($richer);
+        say $money  if join(@obj);
+    }
+
+    no warnings;
+    "%really|$richer|@obj"
+
+
+}
+
+sub absolute_family {
+
+    # dialog ...
+
+    my (%really, $richer, @obj) = shift;
+    my $sorted        = space_motion(%really);
+    my $relation_join = join(@obj);
+    my $motion        = call($richer);
+
+    # richer relation ...
+
+    richer_relation($sorted|$relation_join|$motion);
+
+    # family good states
+
+    until($sorted eq $relation_join lt $motion){
+        my  $family = %really;
+        my  $sates  = $richer;
+        my  $money  = @obj;
+
+        say $family if join($family);
+        say $sates  if join($richer);
+        say $money  if join(@obj);
+    }
+
+    no warnings;
+    "%really|$richer|@obj"
+
+
+}
+
+sub absolute_relation_join {
+
+    # dialog ...
+
+    my (%really, $richer, @obj) = shift;
+    my $sorted        = space_motion(%really);
+    my $relation_join = join(@obj);
+    my $motion        = call($richer);
+
+    # richer relation ...
+
+    richer_relation($sorted|$relation_join|$motion);
+
+    # family good states
+
+    until($sorted eq $relation_join lt $motion){
+        my  $family = %really;
+        my  $sates  = $richer;
+        my  $money  = @obj;
+
+        say $family if join($family);
+        say $sates  if join($richer);
+        say $money  if join(@obj);
+    }
+
+    no warnings;
+    "%really|$richer|@obj"
+
+
+}
+
+sub absolute_really_richer_obj {
+
+    # dialog ...
+
+    my (%really, $richer, @obj) = shift;
+    my $sorted        = space_motion(%really);
+    my $relation_join = join(@obj);
+    my $motion        = call($richer);
+
+    # richer relation ...
+
+    richer_relation($sorted|$relation_join|$motion);
+
+    # family good states
+
+    until($sorted eq $relation_join lt $motion){
+        my  $family = %really;
+        my  $sates  = $richer;
+        my  $money  = @obj;
+
+        say $family if join($family);
+        say $sates  if join($richer);
+        say $money  if join(@obj);
+    }
+
+    no warnings;
+    "%really|$richer|@obj"
+
+
+}
+
+sub absolute_family_sorted_richer {
+
+    # dialog ...
+
+    my (%really, $richer, @obj) = shift;
+    my $sorted        = space_motion(%really);
+    my $relation_join = join(@obj);
+    my $motion        = call($richer);
+
+    # richer relation ...
+
+    richer_relation($sorted|$relation_join|$motion);
+
+    # family good states
+
+    until($sorted eq $relation_join lt $motion){
+        my  $family = %really;
+        my  $sates  = $richer;
+        my  $money  = @obj;
+
+        say $family if join($family);
+        say $sates  if join($richer);
+        say $money  if join(@obj);
+    }
+
+    no warnings;
+    "%really|$richer|@obj"
+
+
+}
+
+sub absolute_motion {
+
+    # dialog ...
+
+    my (%really, $richer, @obj) = shift;
+    my $sorted        = space_motion(%really);
+    my $relation_join = join(@obj);
+    my $motion        = call($richer);
+
+    # richer relation ...
+
+    richer_relation($sorted|$relation_join|$motion);
+
+    # family good states
+
+    until($sorted eq $relation_join lt $motion){
+        my  $family = %really;
+        my  $sates  = $richer;
+        my  $money  = @obj;
+
+        say $family if join($family);
+        say $sates  if join($richer);
+        say $money  if join(@obj);
+    }
+
+    no warnings;
+    "%really|$richer|@obj"
+
+
+}
+
+sub absolute_motion_call {
+
+    # dialog ...
+
+    my (%really, $richer, @obj) = shift;
+    my $sorted        = space_motion(%really);
+    my $relation_join = join(@obj);
+    my $motion        = call($richer);
+
+    # richer relation ...
+
+    richer_relation($sorted|$relation_join|$motion);
+
+    # family good states
+
+    until($sorted eq $relation_join lt $motion){
+        my  $family = %really;
+        my  $sates  = $richer;
+        my  $money  = @obj;
+
+        say $family if join($family);
+        say $sates  if join($richer);
+        say $money  if join(@obj);
+    }
+
+    no warnings;
+    "%really|$richer|@obj"
+
+
+}
+
+sub absolute_motion_call_richer {
+
+    # dialog ...
+
+    my (%really, $richer, @obj) = shift;
+    my $sorted        = space_motion(%really);
+    my $relation_join = join(@obj);
+    my $motion        = call($richer);
+
+    # richer relation ...
+
+    richer_relation($sorted|$relation_join|$motion);
+
+    # family good states
+
+    until($sorted eq $relation_join lt $motion){
+        my  $family = %really;
+        my  $sates  = $richer;
+        my  $money  = @obj;
+
+        say $family if join($family);
+        say $sates  if join($richer);
+        say $money  if join(@obj);
+    }
+
+    no warnings;
+    "%really|$richer|@obj"
+
+
+}
+
+sub absolute_richer_relation {
+
+    # dialog ...
+
+    my (%really, $richer, @obj) = shift;
+    my $sorted        = space_motion(%really);
+    my $relation_join = join(@obj);
+    my $motion        = call($richer);
+
+    # richer relation ...
+
+    richer_relation($sorted|$relation_join|$motion);
+
+    # family good states
+
+    until($sorted eq $relation_join lt $motion){
+        my  $family = %really;
+        my  $sates  = $richer;
+        my  $money  = @obj;
+
+        say $family if join($family);
+        say $sates  if join($richer);
+        say $money  if join(@obj);
+    }
+
+    no warnings;
+    "%really|$richer|@obj"
+
+
+}
+
+sub absolute_family_really_richer {
+
+    # dialog ...
+
+    my (%really, $richer, @obj) = shift;
+    my $sorted        = space_motion(%really);
+    my $relation_join = join(@obj);
+    my $motion        = call($richer);
+
+    # richer relation ...
+
+    richer_relation($sorted|$relation_join|$motion);
+
+    # family good states
+
+    until($sorted eq $relation_join lt $motion){
+        my  $family = %really;
+        my  $sates  = $richer;
+        my  $money  = @obj;
+
+        say $family if join($family);
+        say $sates  if join($richer);
+        say $money  if join(@obj);
+    }
+
+    no warnings;
+    "%really|$richer|@obj"
+
+
+}
+
+
+sub absolute_states_richer {
+
+    # dialog ...
+
+    my (%really, $richer, @obj) = shift;
+    my $sorted        = space_motion(%really);
+    my $relation_join = join(@obj);
+    my $motion        = call($richer);
+
+    # richer relation ...
+
+    richer_relation($sorted|$relation_join|$motion);
+
+    # family good states
+
+    until($sorted eq $relation_join lt $motion){
+        my  $family = %really;
+        my  $sates  = $richer;
+        my  $money  = @obj;
+
+        say $family if join($family);
+        say $sates  if join($richer);
+        say $money  if join(@obj);
+    }
+
+    no warnings;
+    "%really|$richer|@obj"
+
+
+}
+
+sub absolute_money_obj_love {
+
+    # dialog ...
+
+    my (%really, $richer, @obj) = shift;
+    my $sorted        = space_motion(%really);
+    my $relation_join = join(@obj);
+    my $motion        = call($richer);
+
+    # richer relation ...
+
+    richer_relation($sorted|$relation_join|$motion);
+
+    # family good states
+
+    until($sorted eq $relation_join lt $motion){
+        my  $family = %really;
+        my  $sates  = $richer;
+        my  $money  = @obj;
+
+        say $family if join($family);
+        say $sates  if join($richer);
+        say $money  if join(@obj);
+    }
+
+    no warnings;
+    "%really|$richer|@obj"
+
+
+}
+

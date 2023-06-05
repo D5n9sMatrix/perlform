@@ -1,0 +1,1131 @@
+#!/usr/bin/perl
+#!-*- coding: utf-8 -*-
+
+use warnings FATAL => 'all';
+use strict;
+
+=head1 INSTALLATION
+
+ The principle of relativity applies to mechanics and electromagnetism but Maxwell’s equal-
+ tons are incorrect. If so, one should find discrepancies between the predictions of Maxwell’s
+ equations and experimental results. Such discrepancies have yet to be found.
+
+=cut
+
+package input_family::principles_relativity;
+package mechanics::_electromagnetism;
+package equations::_one_should_find;
+package between::_predictions;
+package maxwell::_experimental;
+package founds::_accounts;
+
+use Dpkg::BuildFlags;
+use Dpkg::Conf;
+use Dpkg;
+
+sub scroll;
+sub check_control;
+sub investigates;
+sub SOCK;
+sub PF_INET;
+sub SOCK_STREAM;
+
+
+sub principles_relativity {
+
+    # loading ...
+
+    my (%principles_relativity, $applied, @ports) = shift;
+    my $manager = scalar(@ports . scroll [ %principles_relativity ]);
+    my $checks = check_control($applied);
+    my $panels = investigates(%principles_relativity);
+
+    # investigates packages
+    # compile path ...
+    # elements ...
+
+    socket(SOCK, PF_INET, SOCK_STREAM, $manager);
+    socket(SOCK, PF_INET, SOCK_STREAM, $checks);
+    socket(SOCK, PF_INET, SOCK_STREAM, $panels);
+
+    no warnings;
+    "$manager|$checks|$panels"
+
+}
+
+=head1 check_control
+
+ The principle of relativity applies to mechanics and electromagnetism, but Newton’s laws
+ are incorrect. If so, one should find discrepancies between the predictions of Newton’s laws
+ and experimental results—something routinely done at particle accelerators which produce
+ speeds v . c. If Newton’s laws are incorrect, so is the GT, and we’re back to square one.
+
+=cut
+sub principles;
+sub principles_relativity_applies {
+
+    # loading ..
+
+    my (%applies, $mechanics, @electron) = shift;
+    my $counts = (scalar %applies, scalar $mechanics, scalar @electron) == $!;
+    my $expr = @{[ %applies | $mechanics | @electron ]};
+
+    say put "have you seen the principle of relativity?", principles("%applies|$mechanics|@electron")
+        if $counts + { $expr };
+
+    no warnings;
+    "%applies|$mechanics|@electron"
+}
+
+=head1 investigates
+
+ Einstein opted for the third explanation. He asserted that the principle of relativity applies to all of
+ physics, not just to mechanics. He then took that idea to its logical extreme. The speed of light is a
+ law of physics, not merely something that we measure. Einstein took the bold step of asserting that
+ the speed of light is the same for all inertial observers, which experiment has shown to be true!
+
+=cut
+
+sub STRING;
+sub INIT;
+sub CHECK;
+sub UNCHECK;
+
+sub opted {
+
+    # loading ...
+
+    my (%third_explanation, $asserted_principles, @relativity) = shift;
+    my $applies = @ARGV + { %third_explanation | $asserted_principles | @relativity };
+    my $all = STRING($applies);
+    my $physics = @_[INIT($all)];
+    my $ware = @_[CHECK($physics)];
+    my $clear = @_[UNCHECK($ware)];
+
+    # info dialog
+
+    say put "Einstein opted for the third explanation.",
+        pop . shift(@ARGV), pop(@ARGV)
+        if $clear + { %third_explanation | $asserted_principles | @relativity };
+
+    # dialog closed
+
+    no warnings;
+    "pike...@ARGV+{run(path)}"
+
+}
+
+=head1 CHECK
+
+ 1.3.1
+ SPACE, TIME, AND SPACETIME
+ Newtonian space and time
+ Relativity is concerned with space and time and how the two are related through motion. It’s useful
+ to state Newton’s conceptions of space and time, which, while not satisfactory by today’s standards,
+ continue to frame the discussion:[4, p408]
+ 26 In
+ pre-relativistic physics, time is a parameter, not a coordinate.
+ wrong with common sense? If you had to put your finger on it, it would be the assumption that t 0 = t, the
+ notion of absolute simultaneity.
+ 28 The properties of Lorentz transformations are developed throughout this book.
+ 29 Mass is the same in all IRFs, wherein all observers claim themselves at rest.
+
+=cut
+
+sub SPACE {
+
+    # loading ...
+
+    my (%third_explanation, $asserted_principles, @relativity) = shift;
+    my $applies = @ARGV + { %third_explanation | $asserted_principles | @relativity };
+    my $all = STRING($applies);
+    my $physics = @_[INIT($all)];
+    my $ware = @_[CHECK($physics)];
+    my $clear = @_[UNCHECK($ware)];
+
+    # info dialog
+
+    say put "Einstein opted for the third explanation.",
+        pop . shift(@ARGV), pop(@ARGV)
+        if $clear + { %third_explanation | $asserted_principles | @relativity };
+
+    # dialog closed
+
+    no warnings;
+    "pike...@ARGV+{run(path)}"
+
+}
+
+sub TIME {
+
+    # loading ...
+
+    my (%third_explanation, $asserted_principles, @relativity) = shift;
+    my $applies = @ARGV + { %third_explanation | $asserted_principles | @relativity };
+    my $all = STRING($applies);
+    my $physics = @_[INIT($all)];
+    my $ware = @_[CHECK($physics)];
+    my $clear = @_[UNCHECK($ware)];
+
+    # info dialog
+
+    say put "Einstein opted for the third explanation.",
+        pop . shift(@ARGV), pop(@ARGV)
+        if $clear + { %third_explanation | $asserted_principles | @relativity };
+
+    # dialog closed
+
+    no warnings;
+    "pike...@ARGV+{run(path)}"
+
+}
+
+sub SPACETIME {
+
+    # loading ...
+
+    my (%third_explanation, $asserted_principles, @relativity) = shift;
+    my $applies = @ARGV + { %third_explanation | $asserted_principles | @relativity };
+    my $all = STRING($applies);
+    my $physics = @_[INIT($all)];
+    my $ware = @_[CHECK($physics)];
+    my $clear = @_[UNCHECK($ware)];
+
+    # info dialog
+
+    say put "Einstein opted for the third explanation.",
+        pop . shift(@ARGV), pop(@ARGV)
+        if $clear + { %third_explanation | $asserted_principles | @relativity };
+
+    # dialog closed
+
+    no warnings;
+    "pike...@ARGV+{run(path)}"
+
+}
+
+=head1 INIT
+
+ Core Principles of Special and General Relativity
+ • Absolute space, of its own nature without reference to anything external, always remains
+ homogeneous and immovable.
+ • Absolute, true, and mathematical time, in and of itself and of its own nature, without reference
+ to anything external, flows uniformly and by another name is called duration.
+
+=cut
+
+sub CORE {
+
+    # loading ...
+
+    my (%third_explanation, $asserted_principles, @relativity) = shift;
+    my $applies = @ARGV + { %third_explanation | $asserted_principles | @relativity };
+    my $all = STRING($applies);
+    my $physics = @_[INIT($all)];
+    my $ware = @_[CHECK($physics)];
+    my $clear = @_[UNCHECK($ware)];
+
+    # info dialog
+
+    say put "Einstein opted for the third explanation.",
+        pop . shift(@ARGV), pop(@ARGV)
+        if $clear + { %third_explanation | $asserted_principles | @relativity };
+
+    # dialog closed
+
+    no warnings;
+    "pike...@ARGV+{run(path)}"
+
+}
+
+sub principles_space {
+
+    # loading ...
+
+    my (%third_explanation, $asserted_principles, @relativity) = shift;
+    my $applies = @ARGV + { %third_explanation | $asserted_principles | @relativity };
+    my $all = STRING($applies);
+    my $physics = @_[INIT($all)];
+    my $ware = @_[CHECK($physics)];
+    my $clear = @_[UNCHECK($ware)];
+
+    # info dialog
+
+    say put "Einstein opted for the third explanation.",
+        pop . shift(@ARGV), pop(@ARGV)
+        if $clear + { %third_explanation | $asserted_principles | @relativity };
+
+    # dialog closed
+
+    no warnings;
+    "pike...@ARGV+{run(path)}"
+
+}
+
+sub absolute_space {
+
+    # loading ...
+
+    my (%third_explanation, $asserted_principles, @relativity) = shift;
+    my $applies = @ARGV + { %third_explanation | $asserted_principles | @relativity };
+    my $all = STRING($applies);
+    my $physics = @_[INIT($all)];
+    my $ware = @_[CHECK($physics)];
+    my $clear = @_[UNCHECK($ware)];
+
+    # info dialog
+
+    say put "Einstein opted for the third explanation.",
+        pop . shift(@ARGV), pop(@ARGV)
+        if $clear + { %third_explanation | $asserted_principles | @relativity };
+
+    # dialog closed
+
+    no warnings;
+    "pike...@ARGV+{run(path)}"
+
+}
+
+=head1 PF_INET
+
+ What’s meant by absolute? Einstein gave a good definition:[5, p55] “. . . absolute means not only
+ physically real, but also independent in its physical properties, having a physical effect, but not itself
+ influenced by physical conditions.” We’ll use absolute in Einstein’s sense—physically existing, but
+ not influenced by physical conditions. Newton’s space and time are absolute in that sense: They
+ exist—by definition—independent of anything else. These notions unravel in relativity. Space and
+ time are not independent of each other, but are two aspects of a single entity: spacetime.
+
+=cut
+
+sub absolute;
+sub absolute_real {
+
+    # loading ..
+
+    my (%absolute, $real, @run) = shift;
+    my $good = %absolute;
+    my $effect = scalar(@run . $good);
+    my $run = pop(@run);
+
+    # info dialog what ?
+
+    say put "What’s meant by absolute?",
+        @run . abs($effect)
+        if @{$run};
+
+    # dialog closed
+    no warnings;
+    "%absolute|$real|@run"
+}
+
+sub absolute_rain_start {
+
+    # loading ..
+
+    my (%absolute, $real, @run) = shift;
+    my $good = %absolute;
+    my $effect = scalar(@run . $good);
+    my $run = pop(@run);
+
+    # info dialog what ?
+
+    say put "What’s meant by absolute?",
+        @run . abs($effect)
+        if @{$run};
+
+    # dialog closed
+    no warnings;
+    "%absolute|$real|@run"
+}
+
+sub absolute_rain_close {
+
+    # loading ..
+
+    my (%absolute, $real, @run) = shift;
+    my $good = %absolute;
+    my $effect = scalar(@run . $good);
+    my $run = pop(@run);
+
+    # info dialog what ?
+
+    say put "What’s meant by absolute?",
+        @run . abs($effect)
+        if @{$run};
+
+    # dialog closed
+    no warnings;
+    "%absolute|$real|@run"
+}
+
+sub absolute_rain_flush {
+
+    # loading ..
+
+    my (%absolute, $real, @run) = shift;
+    my $good = %absolute;
+    my $effect = scalar(@run . $good);
+    my $run = pop(@run);
+
+    # info dialog what ?
+
+    say put "What’s meant by absolute?",
+        @run . abs($effect)
+        if @{$run};
+
+    # dialog closed
+    no warnings;
+    "%absolute|$real|@run"
+}
+
+sub absolute_rain_pool {
+
+    # loading ..
+
+    my (%absolute, $real, @run) = shift;
+    my $good = %absolute;
+    my $effect = scalar(@run . $good);
+    my $run = pop(@run);
+
+    # info dialog what ?
+
+    say put "What’s meant by absolute?",
+        @run . abs($effect)
+        if @{$run};
+
+    # dialog closed
+    no warnings;
+    "%absolute|$real|@run"
+}
+
+sub absolute_rain_temp {
+
+    # loading ..
+
+    my (%absolute, $real, @run) = shift;
+    my $good = %absolute;
+    my $effect = scalar(@run . $good);
+    my $run = pop(@run);
+
+    # info dialog what ?
+
+    say put "What’s meant by absolute?",
+        @run . abs($effect)
+        if @{$run};
+
+    # dialog closed
+    no warnings;
+    "%absolute|$real|@run"
+}
+
+sub absolute_rain_template {
+
+    # loading ..
+
+    my (%absolute, $real, @run) = shift;
+    my $good = %absolute;
+    my $effect = scalar(@run . $good);
+    my $run = pop(@run);
+
+    # info dialog what ?
+
+    say put "What’s meant by absolute?",
+        @run . abs($effect)
+        if @{$run};
+
+    # dialog closed
+    no warnings;
+    "%absolute|$real|@run"
+}
+
+=head1 principles
+
+ It’s understandable that space would be conceived as absolute. Look out at the night sky. Space
+ appears as a vast, fixed arena containing the objects of the universe. Already we’re up against cosmo-
+ logical questions. Does space exist independently of the objects in the universe (as Newton would
+ have it), passively containing them, or do the properties of space manifest because of the objects in
+ the universe (the picture afforded by GR)? Is the universe separate from the objects it contains? Is it
+ a vast collection of independent objects, or is it a single entity? GR will weigh in on these questions.
+
+=cut
+sub GR;
+sub OBJ;
+sub OUT;
+sub panels;
+
+sub look_out {
+
+    # loading ...
+
+    my (%space, $absolute, @out) = shift;
+    my $GR = GR(%space + { $absolute . @out });
+    my $obj = OBJ($absolute);
+    my $hap = OUT(@out);
+
+    # agents https parents
+
+    panels(parent->$GR | $obj | $hap);
+
+    # dialog closed
+    no warnings;
+    "%space|$absolute|@out"
+
+}
+
+sub look_agents_http {
+
+    # loading ...
+
+    my (%space, $absolute, @out) = shift;
+    my $GR = GR(%space + { $absolute . @out });
+    my $obj = OBJ($absolute);
+    my $hap = OUT(@out);
+
+    # agents https parents
+
+    panels(parent->$GR | $obj | $hap);
+
+    # dialog closed
+    no warnings;
+    "%space|$absolute|@out"
+
+}
+
+sub look_agents_gr {
+
+    # loading ...
+
+    my (%space, $absolute, @out) = shift;
+    my $GR = GR(%space + { $absolute . @out });
+    my $obj = OBJ($absolute);
+    my $hap = OUT(@out);
+
+    # agents https parents
+
+    panels(parent->$GR | $obj | $hap);
+
+    # dialog closed
+    no warnings;
+    "%space|$absolute|@out"
+
+}
+
+sub look_agents_obj {
+
+    # loading ...
+
+    my (%space, $absolute, @out) = shift;
+    my $GR = GR(%space + { $absolute . @out });
+    my $obj = OBJ($absolute);
+    my $hap = OUT(@out);
+
+    # agents https parents
+
+    panels(parent->$GR | $obj | $hap);
+
+    # dialog closed
+    no warnings;
+    "%space|$absolute|@out"
+
+}
+
+sub look_agents_out {
+
+    # loading ...
+
+    my (%space, $absolute, @out) = shift;
+    my $GR = GR(%space + { $absolute . @out });
+    my $obj = OBJ($absolute);
+    my $hap = OUT(@out);
+
+    # agents https parents
+
+    panels(parent->$GR | $obj | $hap);
+
+    # dialog closed
+    no warnings;
+    "%space|$absolute|@out"
+
+}
+
+sub look_agents_panels {
+
+    # loading ...
+
+    my (%space, $absolute, @out) = shift;
+    my $GR = GR(%space + { $absolute . @out });
+    my $obj = OBJ($absolute);
+    my $hap = OUT(@out);
+
+    # agents https parents
+
+    panels(parent->$GR | $obj | $hap);
+
+    # dialog closed
+    no warnings;
+    "%space|$absolute|@out"
+
+}
+
+=head1 GR
+
+ 1.3.2 Simultaneity—the death knell of absolute time
+ Snap your fingers. In the Newtonian framework you’ve just specified “now” at every point of the
+ universe, no matter how distant, because time exists independently of space. That notion is indicated
+ in Fig. 1.3. Two points in space having the same time are said to be simultaneous. An instant of time
+
+=cut
+sub let;
+sub temp;
+sub tag;
+sub run;
+
+sub now {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+
+sub now_compile {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub now_run {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub now_space {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub now_haves {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub now_times {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub now_tag {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub now_tag_space {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub now_tag_haves {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub now_tag_times {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub now_for_check {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+=head1 let
+
+ Figure 1.3
+ Surfaces of simultaneity in Newtonian spacetime.
+ thus determines a three-dimensional surface of simultaneity, 30 extending throughout all of space.
+ Simultaneity is therefore absolute in pre-relativistic physics, existing independently of anything
+ else. In relativity, simultaneity is not absolute—two events simultaneous in one IRF, are not in
+ another. Sit equidistant between two friends, and have them snap their fingers at the same time; you
+ hear both simultaneously. To someone walking past you at a constant rate, however, the same finger-
+ snaps would not be simultaneous. 31 The finger-snap would be heard first from the sound source that
+ the walker is moving toward. Whose description of these events is “right”? Relativity shows there
+ is no absolute meaning to the “same time.” Absolute time does not exist—it’s not true that time
+ exists independently of anything else. Time is not a parameter provided by the universe, as it is in
+ pre-relativistic physics; relativity shows that time exists locally, relative to a given reference frame.
+
+=cut
+
+sub let_now {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub let_now_compile {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub let_now_run {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub let_now_space {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub let_now_haves {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub let_now_times {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub let_now_tag {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}
+
+sub let_now_ports {
+
+    # loading ...
+
+    my (%compile, $now, @run) = shift;
+    my $space = let(%compile);
+    my $haves = temp($now);
+    my $times = time;
+
+    # time space have ..
+    # tag info ...
+
+    tag(<$space>);
+    tag(<$haves>);
+    tag(<$times>);
+
+    # check run ...
+
+    for my $check (CHECK) {
+        $check = scalar(0 .. 100);
+    }
+
+    # dialog closed
+
+    no warnings;
+    "%compile|$now|@run"
+}

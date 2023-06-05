@@ -1,0 +1,538 @@
+#!/usr/bin/env python
+# -*- Mode: Python; coding: utf-8; indent-tabs-mode: t; c-basic-offset: 4; tab-width: 4 -*- 
+#
+# main.py
+# Copyright (C) 2021 denis <denis@denis-Inspiron-15-3567>
+# 
+# form is free software: you can redistribute it and/or modify it
+# under the terms of the GNU General Public License as published by the
+# Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+# 
+# form is distributed in the hope that it will be useful, but
+# WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+# See the GNU General Public License for more details.
+# 
+# You should have received a copy of the GNU General Public License along
+# with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+# 36 To quote O. Veblen (from 1927), [8, p1] “Recent advances in the theory 
+# of differential invariants and the wide use of this theory in physical 
+# investigations have brought about a rather general acceptance of a particular 
+# type of notation, the essential feature of which is the systematic use of 
+# subscripts and superscripts . . . .” The use of subscripts and superscripts
+# is not as arbitrary as it might first appear; the way the two types of 
+# indices are used in calculations is quite logical and
+# consistent. 37 Reprinted in The Principle of Relativity [9, p73], an 
+# important collection of articles by Einstein, Lorentz, Minkowski,
+# and Weyl. A chance to read the original literature in English translation.
+
+
+class To_quote:
+	def Theory(self, orange="15", feature=":all", logical="known"):
+		if orange:
+			feature.logical()
+		else:
+			return orange
+			
+
+# 1.4
+# SPACETIME DIAGRAMS
+# Comprehending relativity is greatly facilitated through the use of spacetime 
+# diagrams, also called Minkowski diagrams, and we’ll use them freely. On such 
+# diagrams, time is displayed along the vertical axis, with spatial dimensions 
+# displayed on horizontal axes (see Fig. 1.4). It’s simplest to		
+
+class spacetime:
+	def diagrams(self, relativity=None, called=None, axis=None):
+		if relativity is None:
+			called.axis()
+		else:
+			return relativity
+
+		if called is None:
+			axis.list();
+		else:
+			return called
+		if axis is None:
+			list()
+		else:
+			return axis
+
+
+# Figure 1.4
+# Particle worldlines: A is at rest, B is in uniform motion, and C is 
+# accelerated. take time as orthogonal 38 to the three-dimensional space of 
+# spatial variables as in Fig. 1.3. While we employ an orthogonal spacetime 
+# coordinate system, the geometry of spacetime is non-Euclidean
+# (as we’ll show); don’t be fooled into thinking that an orthogonal set of axes 
+# implies a Euclidean geometry. Many ingrained habits must be unlearned in 
+# “doing” geometry on spacetime diagrams, particularly in calculating distances. 
+# Particle A is at rest in the reference frame of Fig. 1.4. The “motion” 
+# (history) in spacetime of a stationary object is a line parallel to the time 
+# axis. Particle B has constant velocity; its worldline is straight, with 
+# speed v = ∆x/∆t = tan θ m s −1 . Particle C is accelerating; its worldline is 
+# curved. In IRFs the worldlines of free particles are straight.			
+
+class Particle:
+	def A(self, motion=None, speed="80", time=None):
+		if motion is None:
+			speed.time()
+		else:
+			return motion
+
+
+# Figure 1.5
+# Lightline (photon worldline) on a spacetime diagram.
+# Of particular interest are the worldlines of photons; see Fig. 1.5. Using 
+# meters and seconds as the units of length and time, the worldline of a photon 
+# would be almost parallel to the spatial axis, with θ ≈ π/2. There’s nothing 
+# fundamental about units, however; one size doesn’t fit all and it’s common to 
+# adopt units that are suited to the problem at hand (e.g., the  electron volt). 
+# It’s convenient to scale times by 1/c ≈ 3.3 ns m −1 , the time for light to 
+# travel one meter. With t → t/(1/c) = ct, the worldline of a photon—the 
+# lightline—is at the angle π/4 with respect to  the ct and x-axes. We’ll
+# draw lightlines at 45 ◦ angles relative to the space and time axes. the 
+# relativity of simultaneity can be illustrated on a spacetime diagram. Consider 
+# a photon source C in a train car 39 situated equidistant between detectors 
+# A and B; see Fig. 1.6. The source emits photons back to back. In a reference 
+# frame at rest with respect to the train car, photons arrive at the detectors 
+# simultaneously. In a reference frame at rest relative to the train station, 
+# however,			
+
+class units:
+	def times(self, dogma=None, args=None, info=True):
+		if dogma is None:
+			args.info()
+		else:
+			return dogma
+
+# Core Principles of Special and General Relativity
+# Relativity of simultaneity. Photons are received simultaneously in the frame 
+# of the emitter, but not in a frame in which emitter and receiver are moving 
+# to the right.			
+
+class core:
+	def principles(self, special="call", general="relativity", right="frame"):
+		if special is None:
+			general.right()
+		else:
+			return special
+
+
+# which the train is assumed passing through, the photon source and the 
+# detectors are in motion with speed v from left to right. The two frames 
+# synchronize their identical clocks when the origins of their coordinate 
+# systems coincide, whereupon the photons are emitted. Seen from the frame 
+# of the station,event A happens before B; the photon first encounters detector 
+# A moving toward it. Simultaneity is not absolute: What’s observed as 
+# simultaneous in one IRF, is not in another.
+
+feature = { "$x": "$value from x", "$y": "$value form y" }
+feature
+
+feature_xy = "0x7fd5d8863830"
+feature_xy
+
+# There’s a fundamental reason to use ct as the temporal coordinate. The fusion 
+# of space and time into spacetime requires that spacetime coordinates all have 
+# the same dimension. The coordinates of an event in one IRF are, under the LT, 
+# a linear combination of the coordinates in another IRF, which can be 
+# accomplished only if space and time coordinates have the same dimension. We 
+# require a conversion factor between spatial and temporal measures, which must 
+# be the same for all IRFs. We’ll show (Chapter 3) that a LT followed by a LT, 
+# is itself a LT—what’s required by the principle of relativity that all IRFs be 
+# equivalent. Such universality is possible only if the conversion factor is
+# universal. The principle of relativity requires a universal speed. Experiment 
+# shows that speed is the speed of light. For frames in relative motion along a 
+# common x-axis (see Fig. 3.1), the spacetime
+# coordinates transform under the LT (Eq. (3.17))
+
+class observer:
+	def fundamental(self, coordinates="x|y"):
+		if coordinates != "x|y":
+			add.list()
+		else:
+			return coordinates
+
+# where γ ≡ (1 − β 2 ) −1/2 is the Lorentz factor, with β ≡ v/c. Under the LT, 
+# the time coordinate in S 0 is a mixture of the time and space coordinates in 
+# S. 40 For that reason, the time coordinate x 0 = ct must have the dimension 
+# of length. The worldline of an object at rest in a given IRF is parallel to 
+# the time axis in that frame, e.g., worldline A in Fig. 1.4. The worldline of 
+# A might just as well be the time axis in that frame, what we’ll assume from 
+# now on. Let observer B be at rest relative to A—see Fig. 1.7. At time t 1 , 
+# A emits a photon toward B that’s reflected by a mirror attached to B, with 
+# the return of the photon recorded at time t 2 . A concludes that B has the 
+# spatial coordinate x p = c(t 2 − t 1 )/2, half the time difference
+# between emission and reception, and that the reflection event occurred at 
+# time t p = (t 2 + t 1 )/2,
+# the mean of the two times. This procedure is called the radar method of 
+# coordinatizing spacetime;
+# it assigns spacetime coordinates to events,			
+
+b2 = 0
+y  = (1 - b2) -1 / 2
+b  = 40
+x0 = b
+t2 = 2
+t1 = 1
+xp = (t2 + t1) / 2
+tp = (t2 + t1) / 2
+
+
+# 40 It is sometimes said (erroneously) that the GT is the version of the LT for 
+# low speeds, v  c, yet that cannot be true—the GT does not mix in the spatial 
+# coordinate for the new time coordinate, at any speed.
+
+GT = 40
+mix = GT + GT
+comp = mix
+
+
+# Radar method of assigning coordinates to events.
+# based on measurements made by A using light signals. 41 The radar method 
+# builds in the isotropy of the speed of light (established in the MM 
+# experiment). The “outbound” speed of light is the same as that for the 
+# photon’s return journey, and we are free to orient A and B in any direction.
+# We can redraw Fig. 1.7 as the left portion of Fig. 1.8. A photon emitted at 
+# time t 1 is reflected
+
+A = { "$inc": 27, "$out": 80 }
+B = { "$inc": 27, "$out": 80 }
+
+A # input A
+B # input B
+
+# Figure 1.8
+# (t, x)
+# Photon emitted at t − x/c is reflected at (t, x) and received at t + x/c.
+# from spacetime point (t, x) and received at time t 2 . We haven’t drawn observer B in Fig. 
+# 1.8, whose only role in Fig. 1.7 was to hold a reflector. Using Eq. (1.5), we can solve for 
+# t 1 and t 2 in terms of
+# (t, x), t 1 = t − x/c and t 2 = t + x/c; these times are shown in the right portion of 
+# Fig. 1.8.
+
+t = 1.8 # tensor 
+x = 1.9 # point of tensor
+c = 10  # connection of tensor
+t2 = 2  # tensor about the time 2 seconds
+
+t + x / c * t2 # output 2.18
+
+
+# RELATIVITY OF CAUSALITY: SPACELIKE AND TIMELIKE
+# While spacetime coordinates are reference-frame dependent, 
+# there is an invariant involving the squares of coordinates 
+# that’s the same for all inertial observers, 42 the spacetime 
+# separation
+
+
+next = input("spacetime: ")
+
+if next == 1.99:
+	print("this is value: ", "banana: ", next, "apple: ", next,  
+	"guava: ", next)
+else:
+	next
+	
+pass
+
+# 41 Note that the radar method does not call upon us to compare times 
+# as measured in different reference frames; it uses measurements made 
+# in a single reference frame. 42 That there is an invariant quantity 
+# among coordinates assigned by different inertial observers to the same 
+# event implies that spacetime possesses an intrinsic geometry—the 
+# subject matter of the rest of the book. 43 Equation (1.7) applies 
+# to IRFs having a common spacetime origin. Note the prime placed on 
+# the index, x µ 0 .	
+
+
+
+if next == 2.20:
+	print("IRFs value xµ 0: ", next)
+else:
+	next
+pass
+
+# Figure 1.9
+# Spacetime separation vector between distinct events.
+# The separation between events is defined analogously. 44 Consider 
+# two events in a given IRF that have coordinates x µ (1) and x µ (2) 
+# . Define the difference vector 45 ∆x µ (see Fig. 1.9)	
+
+
+if next == 2.30:
+	print("vector axis defined: ", next)
+else:
+	next
+	
+# Even though the separation has been defined as the square of the 
+# quantity ∆s, the value of (∆s) 2 can be, depending on the events, 
+# positive, zero, or negative. There is the temptation to define ∆s
+# itself as an imaginary quantity when (∆s) 2 < 0, a temptation we will 
+# resist. 46 The three possible signs of (∆s) 2 provide an absolute way 
+# of characterizing spacetime separa- tions. Because (∆s) 2 is an 
+# invariant, no LT can change its sign.
+
+delta=2
+LT=1
+arg=1
+fly=5
+
+if next == delta:
+	print("the value of 2 delta: ", delta / LT, "value of LT", LT,
+	"the value next", next)
+else:
+	next
+
+try:
+	if next == arg:
+		print("arguments anexed the path: ", arg)
+	else:
+		next
+except next as fly:
+       print("fly except arguments ambient: ", fly)
+if next == fly:
+   print("element fly atched the compriment: ", fly)
+else:
+	next
+	
+# Figure 1.10 shows examples of the three types of spacetime 
+# separations. Timelike separations do not have to be “above” the 
+# lightline, nor spacelike separations “below.” It’s the slope of 
+# the lines that counts, not their location in a spacetime 
+# diagram.
+
+diagram=1.10
+
+if next == diagram:
+	print("spacetime location fart type diagram", diagram)
+else:
+	next
+
+# Timelike, lightlike, and spacelike separations of spacetime events.
+# We can always find a reference frame in which spacelike-separated 
+# events are simultaneous: For
+# ∆t = 0, it is automatically the case that (∆s) 2 > 0. However, for 
+# frames in which (∆s) 2 > 0,
+# ∆t can be of either sign or zero. Thus, one cannot speak of a causal 
+# relation between spacelike-
+# separated events. For A and B spacelike-separated events, one can find 
+# frames in which the events
+# occur in either order, 47 in which A precedes B or B precedes A. This 
+# fact is a major departure from
+# pre-relativistic physics, in which the time order of events is 
+# absolute. 48 Timelike-separated events,
+# on the other hand, can never be simultaneous: No reference frame 
+# can be found for which ∆t = 0
+# as it would violate (∆s) 2 < 0. The temporal order in which 
+# timelike-separated events occur is
+# therefore absolute because we can’t find a frame in which ∆t 
+# vanishes. Only for timelike-separated
+# events can we speak of causality.
+
+delta=0
+
+while 2 < delta:
+	if next == delta:
+		print("occur can't events can causality: ", delta)
+	else:
+		next
+if next == delta:
+	print("country in events delta: ", delta)
+else:
+	next
+
+# 1.6
+# SEGUE TO GENERAL RELATIVITY: NONINERTIAL FRAMES
+# Newton’s laws work in IRFs, which as we have seen, are frames 
+# of reference in which Newton’s laws work! What saves us from a 
+# circular trap is the ability to identify physical sources of force;
+# only in IRFs is the acceleration of objects solely due to forces—only 
+# in IRFs does the Newtonian paradigm apply (F = ma). From the point of 
+# view of fundamental physics, Newton’s second law is limited by its 
+# specialization to IRFs. GR provides equations of motion valid in 
+# arbitrary frames of reference. To what extent do noninertial reference 
+# frames find use in Newtonian dynamics, despite nominally being excluded 
+# from the framework of pre-relativistic mechanics? Such a question might
+# appear off topic, but given that SR is based on the equivalence of 
+# IRFs, and that GR frees itself from
+# IRFs, it’s useful to look at pre-relativistic uses of noninertial 
+# frames.
+
+F=1.21
+
+if next == F:
+	print("IRFs dynamic the topic SR and GR", F)
+else:
+	next
+
+# 1.6.1 Linear acceleration
+# Referring to Figure 1.1, r = R + r 0 where now we allow all 
+# quantities to be time dependent. Differentiating twice with respect 
+# to absolute time, r̈ = A + r̈ 0 where A ≡ R̈ is the relative
+# acceleration between frames. 49 Let S be an IRF in which the observed 
+# acceleration of a particle of
+# mass m is associated with a force, r̈ = F /m. We therefore have an 
+# equation similar to Newton’s
+# second law:	
+
+R=4
+r=R
+A=4
+
+if next == R:
+	if A == R:
+		print("IRF observer the acceleration of mass: ", R)
+	else:
+		A
+else:
+	next
+
+# The acceleration observed in the accelerated frame (r̈ 0 ) is due 
+# to forces (F ) and the force-like quantity −mA, termed the fictitious 
+# force, so named because, while it has the dimension of force, is not a 
+# force; genuine forces can be traced to physical interactions. 
+# Acceleration and force have the same values in all IRFs; they are 
+# absolute, observer-independent quantities. In noninertial frames,
+# r̈ 0 is an apparent acceleration: It’s not absolute, it’s 
+# reference-frame dependent; from Eq. (1.9) r̈ 0 is
+
+eq=1.9
+
+if next == eq:
+	print("IRFs force-like the can 00 all: ", eq)
+else:
+	next
+
+# 47 Demonstrated
+# in Section 2.4.
+# the most part the predictions of SR smoothly go over to those 
+# of Newtonian mechanics as v/c → 0. Certain conclusions, however, 
+# have no counterpart in pre-relativistic physics, such as the 
+# acausality of spacelike-separated events.
+# 49 The transformation of acceleration under the LT, which does 
+# not assume absolute time, is covered in Chapter 3.	
+
+v=4
+c=4
+LT=6
+
+if next == LT:
+	if v:
+		if v / c:
+			print("absolute time covered under LT", next)
+		else:
+			v / c
+	else:
+		v
+else:
+	next
+
+# Core Principles of Special and General Relativity
+# offset from the acceleration due to forces F /m by the acceleration 
+# of the reference frame, A. The acceleration A in the fictitious force 
+# is the acceleration of the frame, not that of the particle. Figure 1.11 
+# shows a noninertial frame N , an elevator accelerating relative to 
+# IRF I. 50 In I, a	
+
+I=80
+IRF=I+50
+
+if next == IRF:
+	print("IRF I general relativity of acceleration A", next)
+else:
+	next
+
+# Left: In I r̈ = 0 (free particle); in N , apparent acceleration 
+# r̈ 0 = −A. Right: In N , r̈ = 0 (at rest); in I, F = mA.
+r=0
+I=r
+A=1
+N=I-A
+	
+if next == N:
+	print("apparent acceleration free particle N: ", next)
+else:
+	next
+
+# free particle has inertial motion, r̈ = 0, whereas in N it has 
+# acceleration r̈ 0 = −A. An observer in N concludes a force produces 
+# the observed acceleration, yet there is no force, no physical agency
+# acting on the particle, which is why −mA is called fictitious. When 
+# the elevator floor meets the particle, however, the fictitious force 
+# becomes real. 51 At this point, the elevator prevents the particle
+# from continuing (“persevering”) in its inertial motion. An inertial 
+# observer concludes there is a force on the object, F = mA, which 
+# follows from Eq. (1.9) with r̈ 0 = 0. The  object resists changes 
+# in its inertial state and exerts a force back on the elevator, 
+# −mA ≡ F i (“endeavors to change the state of that obstacle”). 52 
+# When observed from a noninertial frame, a particle moving by inertia 
+# appears to accelerate in the direction opposite to the acceleration 
+# of the frame; we can still apply Newton’s second law in this case by 
+# regarding the apparent acceleration as caused by a fictitious force. 
+# When, however, the particle is prevented from moving by inertia and 
+# made to move with the acceleration of the frame, the particle resists 
+# acceleration through a real force, the inertial force.
+
+r=0
+A=1
+N=r-A
+i=N
+F=i/i
+t=4
+h=2
+if next == F+t/h:
+	print("inertia move of acceleration the frame: ", next)
+else:
+	next
+
+# Rotating reference frame
+# Inertial forces arise in rotating reference frames. Consider 
+# a frame (x 0 , y 0 , z 0 ) rotating at a constant rate Ω relative 
+# to an IRF (x, y, z) about the common z, z 0 axis. As is well known, 
+# 53 the acceleration observed in a rotating frame is related to the 
+# force F through an equation analogous to Eq. (1.9),
+
+x0=9
+y0=9
+z0=9
+
+IRF=x0+y0/z0
+
+eq=1.9
+x=10
+y=10
+z=10
+if next == IRF+x+y+z:
+	if eq:
+		print("IRF rate relative equation analogus frame: ", next)
+	else:
+		eq / x
+		eq / y
+		eq / z
+else:
+	next
+
+
+# The inertial force F i = −2mΩ × ṙ 0 − mΩ × Ω × r involves the Coriolis 
+# force and the centrifugal orce. These forces are quite real, as anyone 
+# who has ridden a merry-go-round can attest.
+i=2
+m=12
+f=i-2+m
+c=9
+t=m/c
+can=c-i
+if next == t + f:
+	if can:
+		print("these force are quite real ridden can attest: ", next)
+	else:
+		t
+else:
+	next
+
+
